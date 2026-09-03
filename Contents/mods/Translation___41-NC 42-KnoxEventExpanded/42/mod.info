@@ -1,0 +1,10 @@
+id=Hx_KR_KnoxEventExpandedNpc
+name=[Hx] 모드 한글화 - Knox Event Expanded Npc
+require=\KnoxEventExpandedNpc
+icon=icon.png
+poster=poster.png
+author=Hx
+descriptions=녹스 이벤트 번역
+category=translation
+modversion=1.0
+versionMin=42.12.1

@@ -1,0 +1,9 @@
+modVersion=1
+
+name=[Hx] 모드 한글화 - 통합 번역
+id=Hx_KR_Mod
+poster=poster.png
+icon=icon.png
+
+description=<RGB:0.8,0.8,1>많은 모드들을 한꺼번에 한국어로 번역해 주는 번역팩 모드입니다. 모드 매니저를 이용해 배열을 가장 아래에 배치하셔야 번역이 적용됩니다. <LINE> <LINE>
+description=<RGB:1,1,0.3>번역된 모드 목록은 모드 토론 게시글에 작성되어 있습니다.

@@ -1,0 +1,23 @@
+{
+  "IGUI_RISKY_INVEST_BALANCE" : "잔액",
+  "IGUI_RISKY_INVEST_OPEN" : "주식 시장이 열렸습니다!",
+  "IGUI_RISKY_INVEST_CLOSE" : "주식 시장이 닫혔습니다! 오전 9시에 다시 방문하세요!",
+  "IGUI_RISKY_INVEST_PRICE" : "가격",
+  "IGUI_RISKY_INVEST_OWNED" : "보유량",
+  "IGUI_RISKY_INVEST_DEPOSIT" : "입금",
+  "IGUI_RISKY_INVEST_WITHDRAW" : "출금",
+  "IGUI_RISKY_INVEST_BUY" : "구매",
+  "IGUI_RISKY_INVEST_SELL" : "판매",
+  "IGUI_RISKY_INVEST_BROWSE" : "주식 거래소 둘러보기",
+  "IGUI_RISKY_INVEST_STOCKX" : "주식 거래소",
+
+  "IGUI_RISKY_Spiffos" : "스피포",
+  "IGUI_RISKY_Gas2Go" : "가스-투-고",
+  "IGUI_RISKY_Fossil" : "포소일",
+  "IGUI_RISKY_Gigamart" : "기가마트",
+  "IGUI_RISKY_PileOCrepe" : "파일 오 크레페",
+  "IGUI_RISKY_McCoyLogginCo" : "맥코이 벌목 회사",
+  "IGUI_RISKY_ValuTech" : "밸류테크",
+  "IGUI_RISKY_PizzaWhirled" : "피자 월드",
+  "IGUI_RISKY_TacoDelPancho" : "타코 델 판초"
+}

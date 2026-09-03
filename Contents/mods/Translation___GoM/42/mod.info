@@ -1,0 +1,12 @@
+modVersion=1
+
+name=[Hx] 모드 한글화 - GoM - Guns of Marz 총기 모드 번역
+id=Hx_KR_GoM
+poster=poster.png
+icon=icon.png
+author=Hx
+description=<RGB:0.8,0.8,1> GoM - Guns of Marz 모드 번역 <LINE> <LINE>
+description=통합 번역과 겹치는 부분을 덮어쓰는 모드입니다 (바닐라 아이템) 통합 번역 밑으로 적용해주세요
+category=translation
+versionMin=42.0.0
+modversion=1.0

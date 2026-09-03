@@ -1,0 +1,6 @@
+name=[Hx] 모드 한글화 - Read All Book 번역
+id=Hx_KR_Read_All_Magazines_and_Books
+poster=poster.png
+icon=icon.png
+description=원본 모드의 일부 lua만 변경하기에, 원본 모드가 필요합니다.
+require=read_all_books

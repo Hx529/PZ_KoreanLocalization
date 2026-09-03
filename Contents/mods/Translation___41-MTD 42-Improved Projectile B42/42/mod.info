@@ -1,0 +1,9 @@
+id=Improved_Projectile_B42_KO
+name=[Hx] 모드 한글화 - Improved Projectile B42
+require=\ImprovedProjectileB42
+icon=icon.png
+poster=poster.png
+author=Hx
+category=translation
+modversion=1.0
+versionMin=42.0.0

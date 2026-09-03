@@ -1,0 +1,103 @@
+{
+    "Sandbox_SOTO" : "[A] Simple Overhaul: Traits and Occupations",
+
+    "Sandbox_SOTO_AddFitXPWhileRun" : "운동 중 추가 체력 경험치 획득:",
+    "Sandbox_SOTO_AddFitXPWhileRun_tooltip" : "플레이어는 달리는 동안 50% 확률로 게임당 1 체력 경험치를 얻을 수 있습니다.",
+
+    "Sandbox_SOTO_AgilityTraitsObtainable" : "민첩성 특성 습득 가능:",
+    "Sandbox_SOTO_AgilityTraitsObtainable_tooltip" : "민첩성 기술을 레벨업하면서 경험치 보너스를 얻을 수 있는 가능성.<br>예를 들어, 플레이어는 '도둑' 특성을 얻어 은신 기술의 경험치 증가를 높일 수 있습니다.",
+
+    "Sandbox_SOTO_CombatTraitsObtainable" : "전투 특성 습득 가능:",
+    "Sandbox_SOTO_CombatTraitsObtainable_tooltip" : "전투 기술을 레벨업하면서 경험치 보너스를 얻을 수 있는 가능성.<br>예를 들어, 플레이어는 '야구 선수' 특성을 얻어 둔기 기술의 경험치 증가를 높일 수 있습니다.",
+
+    "Sandbox_SOTO_SurvTraitsObtainable" : "생존 특성 습득 가능:",
+    "Sandbox_SOTO_SurvTraitsObtainable_tooltip" : "생존 기술을 레벨업하면서 경험치 보너스를 얻을 수 있는 가능성.<br>예를 들어, 플레이어는 '수렵 전문가' 특성을 얻어 낚시 기술의 경험치 증가를 높일 수 있습니다.",
+
+    "Sandbox_SOTO_CraftTraitsObtainable" : "제작 특성 습득 가능:",
+    "Sandbox_SOTO_CraftTraitsObtainable_tooltip" : "제작 기술을 레벨업하면서 경험치 보너스를 얻을 수 있는 가능성.<br>예를 들어, 플레이어는 '요리사' 특성을 얻어 요리 기술의 경험치 증가를 높일 수 있습니다.",
+
+    "Sandbox_SOTO_FirearmTraitsObtainable" : "총기 특성 습득 가능:",
+    "Sandbox_SOTO_FirearmTraitsObtainable_tooltip" : "총기 기술을 레벨업하면서 경험치 보너스를 얻을 수 있는 가능성.<br>예를 들어, 플레이어는 '사격 전문가' 특성을 얻어 조준 기술의 경험치 증가를 높일 수 있습니다.",
+
+    "Sandbox_SOTO_CowardlyRemovable" : "겁쟁이 특성 제거 가능:",
+    "Sandbox_SOTO_CowardlyHoursToRemoveMin" : "겁쟁이 특성을 제거하기 위한 최소 생존 시간:",
+    "Sandbox_SOTO_CowardlyHoursToRemoveMin_tooltip" : "최소 1일 이하 (24시간)",
+    "Sandbox_SOTO_CowardlyHoursToRemoveMax" : "겁쟁이 특성을 제거하기 위한 최대 생존 시간:",
+    "Sandbox_SOTO_CowardlyHoursToRemoveMax_tooltip" : "최대 1일 이상 (24시간)",
+    "Sandbox_SOTO_CowardlyZombiesKilledToRemoveMin" : "겁쟁이 특성을 제거하기 위한 최소 처치한 좀비 수:",
+    "Sandbox_SOTO_CowardlyZombiesKilledToRemoveMin_tooltip" : "최소 이하",
+    "Sandbox_SOTO_CowardlyZombiesKilledToRemoveMax" : "겁쟁이 특성을 제거하기 위한 최대 처치한 좀비 수:",
+    "Sandbox_SOTO_CowardlyZombiesKilledToRemoveMax_tooltip" : "최대 이상",
+
+    "Sandbox_SOTO_BraveEarnable" : "용감한 특성 습득 가능:",
+    "Sandbox_SOTO_BraveHoursToEarnMin" : "용감한 특성을 습득하기 위한 최소 생존 시간:",
+    "Sandbox_SOTO_BraveHoursToEarnMin_tooltip" : "최소 1일 이하 (24시간)<br>겁쟁이 특성 시작 시 1.2배",
+    "Sandbox_SOTO_BraveHoursToEarnMax" : "용감한 특성을 습득하기 위한 최대 생존 시간:",
+    "Sandbox_SOTO_BraveHoursToEarnMax_tooltip" : "최대 1일 이상 (24시간)<br>겁쟁이 특성 시작 시 1.2배",
+    "Sandbox_SOTO_BraveZombiesKilledToEarnMin" : "용감한 특성을 습득하기 위한 최소 처치한 좀비 수:",
+    "Sandbox_SOTO_BraveZombiesKilledToEarnMin_tooltip" : "최소 이하<br>겁쟁이 특성 시작 시 1.2배",
+    "Sandbox_SOTO_BraveZombiesKilledToEarnMax" : "용감한 특성을 습득하기 위한 최대 처치한 좀비 수:",
+    "Sandbox_SOTO_BraveZombiesKilledToEarnMax_tooltip" : "최대 이상<br>겁쟁이 특성 시작 시 1.2배",
+
+    "Sandbox_SOTO_DesensitizedEarnable" : "둔감한 특성 습득 가능:",
+    "Sandbox_SOTO_DesensitizedHoursToEarnMin" : "둔감한 특성을 습득하기 위한 최소 생존 시간:",
+    "Sandbox_SOTO_DesensitizedHoursToEarnMin_tooltip" : "최소 1일 이하 (24시간)<br>겁쟁이 특성 시작 시 1.2배<br>용감한 특성 시작 시 0.8배",
+    "Sandbox_SOTO_DesensitizedHoursToEarnMax" : "둔감한 특성을 습득하기 위한 최대 생존 시간:",
+    "Sandbox_SOTO_DesensitizedHoursToEarnMax_tooltip" : "최대 1일 이상 (24시간)<br>겁쟁이 특성 시작 시 1.2배<br>용감한 특성 시작 시 0.8배",
+    "Sandbox_SOTO_DesensitizedZombiesKilledToEarnMin" : "둔감한 특성을 습득하기 위한 최소 처치한 좀비 수:",
+    "Sandbox_SOTO_DesensitizedZombiesKilledToEarnMin_tooltip" : "최소 이하<br>겁쟁이 특성 시작 시 1.2배<br>용감한 특성 시작 시 0.8배",
+    "Sandbox_SOTO_DesensitizedZombiesKilledToEarnMax" : "둔감한 특성을 습득하기 위한 최대 처치한 좀비 수:",
+    "Sandbox_SOTO_DesensitizedZombiesKilledToEarnMax_tooltip" : "최대 이상<br>겁쟁이 특성 시작 시 1.2배<br>용감한 특성 시작 시 0.8배",
+
+    "Sandbox_SOTO_PacifistRemovable" : "평화주의자 특성 제거 가능:",
+    "Sandbox_SOTO_PacifistHoursToRemoveMin" : "평화주의자 특성을 제거하기 위한 최소 생존 시간:",
+    "Sandbox_SOTO_PacifistHoursToRemoveMin_tooltip" : "최소 1일 이하 (24시간)",
+    "Sandbox_SOTO_PacifistHoursToRemoveMax" : "평화주의자 특성을 제거하기 위한 최대 생존 시간:",
+    "Sandbox_SOTO_PacifistHoursToRemoveMax_tooltip" : "최대 1일 이상 (24시간)",
+    "Sandbox_SOTO_PacifistZombiesKilledToRemoveMin" : "평화주의자 특성을 제거하기 위한 최소 처치한 좀비 수:",
+    "Sandbox_SOTO_PacifistZombiesKilledToRemoveMin_tooltip" : "최소 이하",
+    "Sandbox_SOTO_PacifistZombiesKilledToRemoveMax" : "평화주의자 특성을 제거하기 위한 최대 처치한 좀비 수:",
+    "Sandbox_SOTO_PacifistZombiesKilledToRemoveMax_tooltip" : "최대 이상",
+    "Sandbox_SOTO_PacifistSkillLvlToRemove" : "평화주의자 특성을 제거하기 위한 최소 무기 기술 레벨:",
+    "Sandbox_SOTO_PacifistSkillLvlToRemove_tooltip" : "모든 무기 기술 (유지보수 및 리로딩 제외)",
+
+    "Sandbox_SOTO_SmokerRemovable" : "골초 특성 제거 가능:",
+    "Sandbox_SOTO_SmokerHoursToRemoveMin" : "골초 특성을 제거하기 위한 최소 생존 시간:",
+    "Sandbox_SOTO_SmokerHoursToRemoveMin_tooltip" : "최소 1일 이하 (24시간)",
+    "Sandbox_SOTO_SmokerHoursToRemoveMax" : "골초 특성을 제거하기 위한 최대 생존 시간:",
+    "Sandbox_SOTO_SmokerHoursToRemoveMax_tooltip" : "최대 1일 이상 (24시간)",
+
+    "Sandbox_SOTO_AlcoholicRemovable" : "알콜 중독자 특성 제거 가능:",
+    "Sandbox_SOTO_AlcoholicHoursToRemoveMin" : "알콜 중독자 특성을 제거하기 위한 최소 생존 시간:",
+    "Sandbox_SOTO_AlcoholicHoursToRemoveMin_tooltip" : "최소 1일 이하 (24시간)",
+    "Sandbox_SOTO_AlcoholicHoursToRemoveMax" : "알콜 중독자 특성을 제거하기 위한 최대 생존 시간:",
+    "Sandbox_SOTO_AlcoholicHoursToRemoveMax_tooltip" : "최대 1일 이상 (24시간)",
+
+    "Sandbox_SOTO_AlcoholicEarnable" : "알콜 중독자 특성 습득 가능:",
+    "Sandbox_SOTO_AlcoholicValueToEarnMin" : "알콜 중독자 특성을 습득하기 위한 최소 값:",
+    "Sandbox_SOTO_AlcoholicValueToEarnMin_tooltip" : "최소 1병 이하 (~300ml)",
+    "Sandbox_SOTO_AlcoholicValueToEarnMax" : "알콜 중독자 특성을 습득하기 위한 최대 값:",
+    "Sandbox_SOTO_AlcoholicValueToEarnMax_tooltip" : "최대 1병 이상 (~300ml)",
+
+    "Sandbox_SOTO_SundayDriverRemovable" : "초보 운전 특성 제거 가능:",
+    "Sandbox_SOTO_SundayDriverHoursToRemoveMin" : "초보 운전 특성을 제거하기 위한 최소 생존 시간:",
+    "Sandbox_SOTO_SundayDriverHoursToRemoveMin_tooltip" : "최소 1일 이하 (24시간)",
+    "Sandbox_SOTO_SundayDriverHoursToRemoveMax" : "초보 운전 특성을 제거하기 위한 최대 생존 시간:",
+    "Sandbox_SOTO_SundayDriverHoursToRemoveMax_tooltip" : "최대 1일 이상 (24시간)",
+
+    "Sandbox_SOTO_AllThumbsRemovable" : "서투름 특성 제거 가능:",
+    "Sandbox_SOTO_AllThumbsValueToRemove" : "서투름 특성을 제거하기 위한 값:",
+    "Sandbox_SOTO_AllThumbsValueToRemove_tooltip" : "(이동 시간)",
+
+    "Sandbox_SOTO_DisorganizedRemovable" : "비체계적인 특성 제거 가능:",
+    "Sandbox_SOTO_DisorganizedValueToRemove" : "비체계적인 특성을 제거하기 위한 값:",
+    "Sandbox_SOTO_DisorganizedValueToRemove_tooltip" : "(이동한 무게)",
+
+    "Sandbox_SOTO_GracefulEarnable" : "우아한 특성 습득 가능:",
+
+    "Sandbox_SOTO_ClumsyRemovable" : "서투른 특성 제거 가능:",
+
+    "Sandbox_SOTO_InconspicuousEarnable" : "부족한 존재감 특성 습득 가능:",
+
+    "Sandbox_SOTO_ConspicuousRemovable" : "넘치는 존재감 특성 제거 가능:"
+}

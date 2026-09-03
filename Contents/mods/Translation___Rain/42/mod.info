@@ -1,0 +1,12 @@
+modVersion=1
+
+name=[Hx] 모드 한글화 - Rain's Firearms & Gun Parts 총기 모드 번역
+id=Hx_KR_RainFirearms
+poster=poster.png
+icon=icon.png
+author=Hx
+description=<RGB:0.8,0.8,1> Rain's Firearms & Gun Parts 모드 번역 <LINE> <LINE>
+description=<RGB:0.8,0.8,1> Rain's Firearms & Gun Parts Expanded 모드 번역 <LINE> <LINE>
+category=translation
+versionMin=42.0.0
+modversion=1.0

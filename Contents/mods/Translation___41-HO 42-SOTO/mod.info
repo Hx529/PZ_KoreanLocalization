@@ -1,0 +1,9 @@
+modVersion=1.0
+
+name=[Hx] 모드 한글화 - (선택형) Hephas Occupations & Traits With Vanilla Professions
+id=Hx_KR_HephasOccupations_Vanilla
+poster=poster.png
+icon=icon.png
+
+description=<RGB:0.8,0.8,1>Hephas Occupations & Traits With Vanilla Professions 모드의 번역본입니다.<LINE> <LINE>
+description=<RGB:1,1,0.3>직업과 특성을 변경합니다.

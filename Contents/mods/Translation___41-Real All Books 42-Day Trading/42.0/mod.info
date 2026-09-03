@@ -1,0 +1,12 @@
+modVersion=1
+
+name=[Hx] 모드 한글화 - Day Trading
+description=
+id=Hx_KR_riskydaytrading
+poster=poster.png
+icon=icon.png
+author=Hx
+category=translation
+versionMin=42.0.0
+require=\riskydaytrading
+modversion=1.0

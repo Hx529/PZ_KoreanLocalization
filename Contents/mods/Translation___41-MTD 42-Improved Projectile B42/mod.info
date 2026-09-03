@@ -1,0 +1,11 @@
+modVersion=1
+
+name=[Hx] 모드 한글화 - (선택형) More Traits Dynamic
+id=Hx_KR_MoreTraitsDynamic
+poster=poster.png
+icon=icon.png
+
+description=[한글패치] 모드 한글화 통합팩 모드로 인해 덮어쓰여진 설명을 재설정합니다
+description=<LINE>번역맥 최하단에 배치해야 합니다.
+
+authors=hansan0529

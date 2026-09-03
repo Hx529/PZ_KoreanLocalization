@@ -1,0 +1,12 @@
+name=[Hx] 모드 한글화 - Harder Hotwire [설명 확인 필수!]
+id=Hx_KR_HarderHotwire
+poster=poster.png
+icon=icon.png
+require=\harder_hotwire
+description=<RGB:0.8,0.8,1>Harder Hotwire 모드 적용 시, 변경되는 텍스트를 번역합니다. <LINE> <LINE>
+description='[Hx] 모드 한글화 - 통합 번역' 모드에서도 같은 내용을 변경하므로 모든 번역 모드 보다 최하단에 위치해주세요. <LINE> <LINE>
+description=해당 모드를 적용시 바닐라의 배선따기 텍스트를 변경하므로 반드시 선행조건으로 필요하여 번역파일에 선행 조건을 제한했습니다.
+category=translation
+author=Hx
+modversion=1.0
+versionMin=42.0.0

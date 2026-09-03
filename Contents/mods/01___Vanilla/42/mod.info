@@ -1,0 +1,17 @@
+name=[Hx] 바닐라 한글화
+id=Hx_KR_Vanilla
+poster=poster.png
+description=42빌드 바닐라 자체 번역입니다. <LINE> <LINE>
+description=- 42빌드에 미지원하는 폰트 수정 <LINE>
+description=- 42.10 빌드에 업데이트 된, 도로명 번역도 포함되어있습니다. 도로명 번역은 Darker Map 모드 적용 시, 번역이 되지 않습니다. <LINE> <LINE>
+description=- 디버그 번역 <LINE>
+description=- 월드맵 지역 번역 <LINE> <LINE>
+description= 번역 충돌을 고려해 바닐라 번역 모드 하나만 이용해주세요. <LINE> <LINE>
+description=도움을 주신 분 <LINE>
+description=도로명: <GHC>　SkyBlue <RGB:1,1,1> 　
+icon=icon.png
+category=translation
+modversion=1.3.1
+versionMin=42.0.0
+author=Hx, Skyblue
+incompatible=\42buildTranslateKorean

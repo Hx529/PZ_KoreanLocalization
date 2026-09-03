@@ -1,0 +1,9 @@
+modVersion=1.0
+
+name=[Hx] 모드 한글화 - (선택형) Dynamic Traits
+id=Hx_KR_DynamicTraits
+poster=poster.png
+icon=icon.png
+
+description=<RGB:0.8,0.8,1>Dynamic Traits 모드의 번역본입니다.<LINE> <LINE>
+description=<RGB:1,1,0.3>특성을 동적으로 추가 및 제거하는 모드입니다.

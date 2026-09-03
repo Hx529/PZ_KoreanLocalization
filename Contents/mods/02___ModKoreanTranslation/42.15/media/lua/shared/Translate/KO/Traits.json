@@ -1,0 +1,6 @@
+{
+    "Traits_StrongBladder": "강한 방광",
+    "Traits_WeakBladder": "약한 방광",
+    "Traits_StrongBladder_description": "소변 실수 확률이 낮음",
+    "Traits_WeakBladder_description": "소변 실수 확률이 높음"
+}

@@ -1,0 +1,631 @@
+{
+  "UI_trait_cowardlydesc" : "패닉에 빠지기 쉽습니다.<br>[SOTO] 생존 7-14일, 좀비 사냥 1.25k-2.5k, 획득함<br><br>+200%% 패닉 증가<br>",
+  "UI_trait_bravedesc" : "패닉 상태가 될 가능성이 적습니다.<br>[SOTO] 생존 21-35일, 좀비 사냥 3.0k-4.5k, 획득함<br><br>-70%% 패닉 감소<br>",
+  "UI_trait_DesensitizedDesc" : "패닉에 걸릴 확률이 훨씬 낮습니다.<br>[SOTO] 생존 49-63일, 좀비 사냥 6.0k-9.0k, 획득함<br><br>-85%% 패닉<br>",
+  "UI_trait_SundayDriverDesc" : "느리게 운전합니다.<br><br>-40%% 차량 최대 속도보다 더 느리게 운전<br>[SOTO] 운전 60-80시간, 제거됨<br><br>",
+  "UI_trait_DisorganizedDesc" : "컨테이너의 용량이 감소합니다.<br>메인 인벤토리를 제외한 컨테이너, 가방에 영향을 미칩니다.<br><br>-30%% 기본 컨테이너, 가방 용량보다 감소<br>[SOTO] 이동 중 무게 37500, 제거됨<br><br>",
+
+	"UI_trait_Blacksmith" : "대장장이 기초",
+	"UI_trait_Blacksmith2" : "대장장이 지식",
+	"UI_trait_BlacksmithDesc2" : "일부 대장장이 레시피를 안다.",
+	"UI_trait_TailorDesc2" : "일부 재봉 레시피를 안다.",
+	"UI_trait_GardenerDesc2" : "일부 농업 레시피를 안다.",
+	"UI_trait_WhittlerDesc2" : "일부 조각 레시피를 안다.",
+	"UI_trait_MechanicsDesc" : "표준 및 중형 차량의 정비 및 수리 방법을 안다.",
+	"UI_trait_Mechanics2Desc" : "모든 유형의 차량의 정비 및 수리 방법을 안다.",
+
+	"UI_trait_Hunter2Desc" : "조준, 단검, 은신, 덫 놓기 및 추적 기술이 있다.",
+	"UI_trait_Scout2Desc" : "응급처치 및 채집 기술이 있다.",
+	"UI_trait_Gardener2Desc" : "농업 기술이 있다.",
+	"UI_trait_FirstAid2Desc" : "응급처치 기술이 있다.",
+	"UI_trait_Gymnast2desc" : "민첩성과 가벼운 발걸음 기술이 있다.",
+
+	"UI_trait_DexterousDesc2" : "인벤토리 아이템을 빠르게 전송한다.<br>(-50%% 인벤토리 전송 시간. 더 빠른 동작.)",
+	"UI_trait_AllThumbsDesc2" : "인벤토리 아이템을 느리게 전송한다.<br>(+50%% 인벤토리 전송 시간. 더 느린 동작.)<br>[SOTO] 이동 시간 37500, 제거됨<br><br>",
+	"UI_trait_SOSmokerDesc" : "담배 중독이 있다.<br>달리거나 싸울 때 체력 소모가 약간 증가한다.<br>지친 상태일 때 기침할 수 있다.<br>담배를 피우면 스트레스, 불행, 허기가 줄어든다.<br>흡연을 삼가면 스트레스, 불행, 허기가 증가한다.<br>[SOTO] 금연 28-32일, 제거됨<br>",
+	"UI_trait_SOHikerDesc" : "장거리 하이킹에 경험이 있다.<br>일부 덫 놓기 레시피를 안다.<br>(잠시 멈추지 않고 걸을 때 허기, 갈증, 피로 축적이 약간 줄어든다.)",
+	"UI_trait_BarFighterDesc2" : "문제에 휘말리기 익숙하다.<br>근접 전투에서 성공적인 공격이 있을 때 불행이 감소할 수 있다.<br>일부 임시 무기 레시피를 안다.",
+	"UI_trait_pronetoillness2desc" : "질병에 더 취약하다. 감기에 걸릴 수 있다.<br>좀비화 속도가 더 빠르다.<br>(+25%% 좀비화 속도, +70%% 감기 걸릴 확률,<br>+20%% 감기 강도, +50%% 감기 진행 속도,<br>밖에 있을 때 감기에 걸릴 확률이 미미하다.)",
+	"UI_trait_Hemophobic2Desc" : "자기 자신에게 응급처치를 하거나 동물을 도축할 때 공황 상태에 빠진다.<br>다른 사람에게 응급처치를 할 수 없다.<br>피에 묻었을 때 스트레스를 받으며 불행해진다.",
+	"UI_trait_PacifistDesc" : "전투 경험치를 적게 얻는다.<br>(모든 무기 기술, 유지보수 기술 및 조준 기술에서 XP가 -25%% 감소한다.)<br>[SOTO] 생존 28-42일, 좀비 사냥 1.5k-2.5k, 전투 레벨 7 이상, 제거됨<br>",
+
+	"UI_trait_sneaky" : "[SOTO] 은밀함",
+	"UI_trait_sneakydesc" : "",
+	"UI_trait_lightfooted" : "[SOTO] 가벼운 발걸음",
+	"UI_trait_lightfooteddesc" : "",
+	"UI_trait_nimble" : "[SOTO] 민첩함",
+	"UI_trait_nimbledesc" : "",
+	"UI_trait_forager" : "[SOTO] 채집꾼",
+	"UI_trait_foragerdesc" : "",
+	"UI_trait_trapper" : "[SOTO] 트래퍼",
+	"UI_trait_trapperdesc" : "일부 덫 레시피를 알고 있습니다.",
+	"UI_trait_culinary" : "[SOTO] 요리사",
+	"UI_trait_culinarydesc" : "일부 요리 레리피를 알고 있습니다.",
+	"UI_trait_electrictech" : "[SOTO] 전기 기술자",
+	"UI_trait_electrictechdesc" : "일부 전기 레시피를 알고 있습니다.",
+	"UI_trait_automechanic" : "[SOTO] 자동차 정비공",
+	"UI_trait_automechanicdesc" : "",
+	"UI_trait_woodworker" : "[SOTO] 목수",
+	"UI_trait_woodworkerdesc" : "",
+	"UI_trait_metalwelder" : "[SOTO] 금속 용접가",
+	"UI_trait_metalwelderdesc" : "일부 금속용접 레시피를 알고 있습니다.",
+	"UI_trait_durab" : "[SOTO] 내구성",
+	"UI_trait_durabdesc" : "",
+	"UI_trait_stabber" : "[SOTO] 찌르기",
+	"UI_trait_stabberdesc" : "",
+	"UI_trait_smasher" : "[SOTO] 강타",
+	"UI_trait_smasherdesc" : "",
+	"UI_trait_cutter" : "[SOTO] 커터",
+	"UI_trait_cutterdesc" : "",
+	"UI_trait_spearman" : "[SOTO] 스피어맨",
+	"UI_trait_spearmandesc" : "",
+	"UI_trait_swordsman" : "[SOTO] 검사",
+	"UI_trait_swordsmandesc" : "",
+	"UI_trait_shooter" : "[SOTO] 사수",
+	"UI_trait_shooterdesc" : "",
+	"UI_trait_shooter2desc" : "조준 및 재장전 기술",
+	"UI_trait_expshooter" : "[SOTO] 저격수",
+	"UI_trait_expshooterdesc" : "",
+	"UI_trait_masonry" : "[SOTO] 석공",
+	"UI_trait_masonrydesc" : "",
+	"UI_trait_potter" : "[SOTO] 도예가",
+	"UI_trait_potterdesc" : "",
+	"UI_trait_glassblower" : "[SOTO] 유리공예가",
+	"UI_trait_glassblowerdesc" : "일부 유리공예 레시피를 알고 있습니다.",
+	"UI_trait_knappingbasics" : "[SOTO] 석기제작가",
+	"UI_trait_knappingbasicsdesc" : "일부 석기제작 레시피를 알고 있습니다.",
+	"UI_trait_tracker" : "[SOTO] 추적자",
+	"UI_trait_trackerdesc" : "",
+	"UI_trait_animalfriend" : "[SOTO] 동물 친구",
+	"UI_trait_animalfrienddesc" : "",
+	"UI_trait_animalfriend2desc" : "축산 기술",
+	"UI_trait_slaughterer" : "[SOTO] 도살자",
+	"UI_trait_slaughtererdesc" : "",
+	"UI_trait_slaughterer2desc" : "도축 기술",
+	"UI_trait_smelter" : "[SOTO] 제련가",
+	"UI_trait_smelterdesc" : "",
+  "UI_trait_overweight" : "[SOTO] 과체중",
+  "UI_trait_obese" : "[SOTO] 비만",
+  "UI_trait_underweight" : "[SOTO] 저체중",
+  "UI_trait_veryunderweight" : "[SOTO] 심한 저체중",
+
+	"UI_trait_tireless" : "[SOTO] 피로 없는",
+	"UI_trait_tirelessdesc" : "근접 무기를 휘두를 때 지구력이 회복될 확률이 있다.<br>활동 후 근육이 더 빨리 회복된다.",
+	"UI_trait_marathonrunner" : "[SOTO] 마라톤 러너",
+	"UI_trait_marathonrunnerdesc" : "달리기 중 지구력 회복이 증가한다.<br>(몰래 다닐 때는 적용되지 않는다.)",
+	"UI_trait_breathingtech" : "[SOTO] 호흡 기법",
+	"UI_trait_breathingtechdesc" : "움직이지 않을 때 지구력 회복이 증가한다.<br>(앉아 있을 때 더 효과적이다.)",
+	"UI_trait_ninjaway" : "[SOTO] 그림자 사이로",
+	"UI_trait_ninjawaydesc" : "몰래 다닐 때 지구력 회복이 증가한다.<br>(가만히 있거나 몰래 달릴 때 더 효과적이다.)",
+
+	"UI_trait_fastmetabolism" : "[SOTO] 빠른 신진대사",
+	"UI_trait_fastmetabolismdesc" : "체중이 줄기 쉬운 편이다.<br>체력 훈련 속도가 더 빠르지만, 근력 훈련 속도가 더 느리다.<br>(체중이 70 이상일 경우 칼로리 소모 +30%%, 체력 XP +30%%, 근력 XP -30%%)",
+	"UI_trait_slowmetabolism" : "[SOTO] 느린 신진대사",
+	"UI_trait_slowmetabolismdesc" : "체중이 늘기 쉬운 편이다.<br>근력 훈련 속도가 더 빠르지만, 체력 훈련 속도가 더 느리다.<br>(체중이 90 이하일 경우 칼로리 소모 -30%%, 근력 XP +30%%, 체력 XP -30%%)",
+
+	"UI_trait_mushroompicker" : "[SOTO] 버섯학자",
+	"UI_trait_mushroompickerdesc" : "탐색 모드에서 버섯을 찾을 확률이 증가한다.",
+	"UI_trait_entomologist" : "[SOTO] 곤충학자",
+	"UI_trait_entomologistdesc" : "탐색 모드에서 곤충을 찾을 확률이 증가한다.",
+	"UI_trait_genexp" : "[SOTO] 발전기 전문가",
+	"UI_trait_genexpdesc" : "발전기 작동 및 수리 방법을 안다.<br>(발전기 수리 시 상태가 5%% 더 증가한다.)",
+	"UI_trait_cruelty" : "[SOTO] 잔인함",
+	"UI_trait_crueltydesc" : "전투 XP 획득이 증가한다.<br>(모든 무기 기술, 유지보수 기술 및 조준 기술에 대해 XP +25%%)",
+
+	"UI_trait_taut" : "[SOTO] 긴장됨",
+	"UI_trait_tautdesc" : "",
+	"UI_trait_slack" : "[SOTO] 느슨함",
+	"UI_trait_slackdesc" : "",
+
+	"UI_trait_fearofthedark" : "[SOTO] 야경증",
+	"UI_trait_fearofthedarkdesc" : "어둠을 두려워합니다. 빛이 없으면 공황 상태에 빠집니다.<br>어두운 곳에 오래 있으면 스트레스도 증가합니다.",
+	"UI_trait_chronicmigraine" : "[SOTO] 만성 편두통",
+	"UI_trait_chronicmigrainedesc" : "자주 두통을 겪습니다.",
+	"UI_trait_sensitivedigestion" : "[SOTO] 민감한 소화",
+	"UI_trait_sensitivedigestiondesc" : "과식 시 위에 통증과 구역질을 경험합니다.<br>(양이 많을수록 통증과 구역질이 강해질 수 있습니다.)",
+	"UI_trait_allergic" : "[SOTO] 알레르기",
+	"UI_trait_allergicdesc" : "불쑥 재채기를 합니다.<br>(원치 않는 손님을 불러올 수 있습니다.<br>재채기는 휴지나 화장지로 가릴 수 있습니다.)",
+	"UI_trait_snorer" : "[SOTO] 코골이",
+	"UI_trait_snorerdesc" : "자면서 큰 소리로 코를 골고 자고 있습니다.<br>(원치 않는 손님을 불러올 수 있습니다.)",
+	"UI_trait_panicattacks" : "[SOTO] 공황 발작",
+	"UI_trait_panicattacksdesc" : "갑작스러운 공황 발작을 겪습니다.<br>공황이 지나가는 데 시간이 더 걸립니다.<br>(공황 발작으로 깨어날 수 있습니다.<br>시간이 지날수록 공황 발작의 빈도가 줄어듭니다.)",
+	"UI_trait_sorelegs" : "[SOTO] 다리 통증",
+	"UI_trait_sorelegsdesc" : "걷거나, 뛰거나, 전력 질주하거나, 운동을 하거나, 발로 구르는 동작을 할 때 다리가 아픕니다.<br>전력 질주 시 통증과 체력 소모가 훨씬 큽니다.<br>(전력 질주 수준이 통증을 줄이고 뛰거나 전력 질주할 때의 통증을 줄여줍니다.<br>발빠름 수준이 걷거나 구를 때의 통증을 줄여줍니다.)",
+	"UI_trait_soalcoholic" : "[SOTO] 알콜 중독",
+	"UI_trait_soalcoholicdesc" : "알콜 중독이 있습니다.<br>알콜을 마셔도 피로가 쌓이지 않습니다.<br>알콜 금주는 지루함, 불행, 갈증을 증가시킵니다.<br>오랜 금주는 피로, 스트레스, 두통, 구역질을 증가시킵니다.<br>[SOTO] 술을 마시지 않은지 43-47일, 제거됨, 알코올 수치 6192-6768, 획득함<br>",
+
+	"UI_trait_strongback" : "[SOTO] 강한 등",
+	"UI_trait_strongbackdesc" : "휴대 가능 체중을 증가시킵니다.<br>(힘 수준에 따라 휴대 가능한 체중이 1-2 증가합니다.)",
+	"UI_trait_weakback" : "[SOTO] 약한 등",
+	"UI_trait_weakbackdesc" : "휴대 가능 체중을 감소시킵니다.<br>(힘 수준에 따라 휴대 가능한 체중이 1-3 감소합니다.)",
+
+	"UI_trait_thickblood" : "[SOTO] 두꺼운 혈액",
+	"UI_trait_thickblooddesc" : "상처에서 출혈이 적습니다.<br>(출혈 피해가 -50%% 감소합니다.)<br><br> <BHC> [!] 즉사 버그가 발생 할 수 있습니다. [!] <br> <RGB:1.1.1> ",
+	"UI_trait_liquidblood" : "[SOTO] 얇은 혈액",
+	"UI_trait_liquidblooddesc" : "상처에서 출혈이 더 많이 발생합니다.<br>(출혈 피해가 +100%% 증가합니다.)<br><br> <BHC> [!] 즉사 버그가 발생 할 수 있습니다. [!] <br> <RGB:1.1.1> ",
+
+	"UI_trait_owlperson" : "[SOTO] 올빼미",
+	"UI_trait_owlpersondesc" : "저녁에 일어나는 것을 선호합니다.<br>(저녁(05:00 p.m. - 10:00 p.m.)에 피로 증가가 더 느리지만,<br>아침(05:00 a.m. - 10:00 a.m.)에는 더 빠르게 증가합니다.)",
+	"UI_trait_larkperson" : "[SOTO] 종달새",
+	"UI_trait_larkpersondesc" : "아침에 일어나는 것을 선호합니다.<br>(아침(05:00 a.m. - 10:00 a.m.)에 피로 증가가 더 느리지만,<br>저녁(05:00 p.m. - 10:00 p.m.)에는 더 빠르게 증가합니다.)",
+
+	"UI_trait_optimistmood" : "[SOTO] 낙천주의자",
+	"UI_trait_optimistmooddesc" : "지루함이 덜합니다. 오랫동안 우울하지 않을 수 있습니다.<br>(-50%% 지루함 증가.<br>불행은 48시간 동안 50%% 이상 증가하지 않습니다.)",
+	"UI_trait_depressivemood" : "[SOTO] 우울증",
+	"UI_trait_depressivemooddesc" : "자주 슬퍼집니다. 이유 없이 우울해질 수 있습니다.<br>나쁜 기분은 생산성에 영향을 미칠 수 있습니다.<br>(불행이 시간이 지나면서 증가합니다.<br>갑작스러운 우울증은 며칠에 한 번씩 발생할 수 있습니다.<br>불행 상태에 따라 모든 기술의 XP 획득이 최대 -10%%까지 감소합니다.)",
+	"UI_trait_calmminded" : "침착한 성격",
+	"UI_trait_calmmindeddesc" : "어떤 상황에서도 침착함을 유지합니다. <br> (최대 스트레스가 50%%를 초과할 수 없으며, <br> 스트레스와 공황 상태가 더 빠르게 감소합니다.)",
+
+	"UI_trait_lesssweaty" : "[SOTO] 적은 땀",
+	"UI_trait_lesssweatydesc" : "습기 생성이 줄어듭니다.<br>(비를 맞을 때 덜 효과적일 수 있습니다.)",
+	"UI_trait_highsweaty" : "[SOTO] 과도한 땀",
+	"UI_trait_highsweatydesc" : "습기 생성이 증가합니다.<br>(전투, 달리기 또는 운동 시 땀이 많이 납니다.)",
+
+	"UI_trait_improvedforaging" : "[SOTO] 향상된 채집",
+	"UI_trait_improvedforagingdesc" : "직업에 따라 검색 모드에서 특정 아이템을 찾을 확률이 증가합니다.",
+	"UI_trait_advancedforaging" : "[SOTO] 고급 채집",
+	"UI_trait_advancedforagingdesc" : "직업에 따라 검색 모드에서 특정 아이템을 찾을 확률이 크게 증가합니다.",
+	"UI_trait_commdriver" : "[SOTO] 상업 운전사",
+	"UI_trait_commdriverdesc" : "움직이는 차량을 운전할 때 피로 증가를 줄입니다.<br>중형 차량 수리 가능.",
+	"UI_trait_usedtocorpses" : "[SOTO] 죽음에 익숙해짐",
+	"UI_trait_usedtocorpsesdesc" : "썩어가는 시체가 구역질을 일으키지 않습니다.<br>(현재 구역질이 없다면, 감염된 시체를 다룰 때 영향을 미치지 않습니다.)",
+	"UI_trait_priestspirit" : "[SOTO] 사제의 영성",
+	"UI_trait_priestspiritdesc" : "기도를 작성하여 정신 상태를 개선할 수 있습니다.<br>(기도는 약간의 스트레스, 지루함, 불행을 줄여줍니다.)",
+	"UI_trait_improvisedcleaning" : "[SOTO] 즉석 청소",
+	"UI_trait_improvisedcleaningdesc" : "즉석에서 청소 용품을 만들 수 있습니다.<br>표백제와 청소 액체 만드는 법을 알고 있습니다.",
+	"UI_trait_enjoytheride" : "[SOTO] 바람을 타고",
+	"UI_trait_enjoytheridedesc" : "고속으로 운전할 때 스트레스와 불행이 감소합니다.<br>스포츠 차량 수리 가능.<br>(차량 속도가 60 MPH 이상이어야 합니다.)",
+	"UI_trait_gasmanagement" : "[SOTO] 경험 많은 연료 보충자",
+	"UI_trait_gasmanagementdesc" : "인벤토리 아이템을 더 빠르게 이동시키고, 차량에 연료를 보충하고, 가솔린을 빨리 뽑을 수 있습니다.<br>(-25%% 인벤토리 이동 시간, 연료 보충 및 가솔린 뽑기.<br>\"민첩한\" 특성으로 최대 -60%% 인벤토리 이동 시간 단축.)",
+	"UI_trait_heavyaxemybeloved" : "[SOTO] 무거운 도끼, 나의 사랑",
+	"UI_trait_heavyaxemybeloveddesc" : "무거운 도끼를 휘두를 때 체력 소모가 적습니다.<br>나무를 자를 때 추가적인 도끼 XP를 얻습니다.",
+	"UI_trait_demostronggrip" : "[SOTO] 강한 그립",
+	"UI_trait_demostronggripdesc" : "무거운 장검을 휘두를 때 체력 소모가 적습니다.",
+	"UI_trait_bladetools" : "[SOTO] 날붙이 도구",
+	"UI_trait_bladetoolsdesc" : "단검 무기를 사용할 때 장검 XP가 15%% 증가하고, 반대의 경우도 마찬가지입니다.",
+	"UI_trait_minersendurance" : "[SOTO] 광부의 체력",
+	"UI_trait_minersendurancedesc" : "근접 무기를 휘두를 때 체력 회복 확률이 증가합니다.<br>어떤 활동을 할 때 근육이 더 빨리 회복됩니다.",
+	"UI_trait_lifelonglearner" : "[SOTO] 평생 학습자",
+	"UI_trait_lifelonglearnerdesc" : "교육적인 문헌을 읽을 때 지루하지 않습니다.",
+	"UI_trait_breakintechnique" : "[SOTO] 문 개방 기술",
+	"UI_trait_breakintechniquedesc" : "도끼는 문과 방어벽에 더 많은 피해를 입힙니다.",
+
+	"UI_profdesc_parkranger" : "숲과 산림을 더 빠르게 이동할 수 있습니다.<br>몇 가지 덫 놓는 레시피를 알고 있습니다.",
+	"UI_profdesc_chef" : "몇 가지 요리 레시피를 알고 있습니다.",
+	"UI_profdesc_farmer" : "몇 가지 농업 레시피를 알고 있습니다.",
+	"UI_profdesc_fisherman" : "몇 가지 낚시 레시피를 알고 있습니다.",
+	"UI_profdesc_veteran" : "전쟁. 전쟁은 절대 변하지 않습니다...",
+	"UI_profdesc_lumberjack" : "숲과 산림을 조금 더 빠르게 이동할 수 있습니다.",
+	"UI_profdesc_electrician" : "몇 가지 전기 관련 레시피를 알고 있습니다.",
+	"UI_profdesc_engineer" : "몇 가지 폭탄 및 소음 생성기 레시피를 알고 있습니다.",
+	"UI_profdesc_metalworker" : "몇 가지 금속 가공 레시피를 알고 있습니다.",
+
+	"UI_prof_tailorocc" : "[SOTO] 재봉사",
+	"UI_profdesc_tailorocc" : "몇 가지 재봉 레시피를 알고 있습니다.",
+	"UI_prof_deliverymanocc" : "[SOTO] 배달원",
+	"UI_profdesc_deliverymanocc" : "",
+	"UI_prof_loaderocc" : "[SOTO] 짐 실어주는 사람",
+	"UI_profdesc_loaderocc" : "",
+	"UI_prof_truckerocc" : "[SOTO] 트럭 운전사",
+	"UI_profdesc_truckerocc" : "",
+	"UI_prof_soldierocc" : "[SOTO] 군인",
+	"UI_profdesc_soldierocc" : "",
+	"UI_prof_botanistocc" : "[SOTO] 식물학자",
+	"UI_profdesc_botanistocc" : "",
+	"UI_prof_gravemanocc" : "[SOTO] 묘지 파는 사람",
+	"UI_profdesc_gravemanocc" : "",
+	"UI_prof_dancerocc" : "[SOTO] 댄서",
+	"UI_profdesc_dancerocc" : "",
+	"UI_prof_priestocc" : "[SOTO] 사제",
+	"UI_profdesc_priestocc" : "",
+	"UI_prof_heavyathinstructorocc" : "[SOTO] 역도 강사",
+	"UI_profdesc_heavyathinstructorocc" : "",
+ 	"UI_prof_detectiveocc" : "[SOTO] 탐정",
+	"UI_profdesc_detectiveocc" : "",
+	"UI_prof_teacherocc" : "[SOTO] 학교 선생님",
+	"UI_profdesc_teacherocc" : "",
+ 	"UI_prof_stuntmanocc" : "[SOTO] 스턴트맨",
+	"UI_profdesc_stuntmanocc" : "",
+	"UI_prof_cleanermanocc" : "[SOTO] 청소부",
+	"UI_profdesc_cleanermanocc" : "",
+	"UI_prof_gasstationoperatorocc" : "[SOTO] 주유소 직원",
+	"UI_profdesc_gasstationoperatorocc" : "",
+	"UI_prof_campcounsocc" : "[SOTO] 캠프 상담원",
+	"UI_profdesc_campcounsocc" : "몇 가지 낚시 레시피를 알고 있습니다.",
+	"UI_prof_dragracerocc" : "[SOTO] 드래그 레이서",
+	"UI_profdesc_dragracerocc" : "",
+	"UI_prof_junkyardworkerocc" : "[SOTO] 정크 야드 작업자",
+	"UI_profdesc_junkyardworkerocc" : "몇 가지 금속 가공 레시피를 알고 있습니다.",
+	"UI_prof_lifeguardocc" : "[SOTO] 구명 구조대원",
+	"UI_profdesc_lifeguardocc" : "",
+	"UI_prof_demoworkerocc" : "[SOTO] 철거 작업자",
+	"UI_profdesc_demoworkerocc" : "",
+	"UI_prof_butcherocc" : "[SOTO] 정육점 주인",
+	"UI_profdesc_butcherocc" : "",
+	"UI_prof_paparazziocc" : "[SOTO] 파파라치",
+	"UI_profdesc_paparazziocc" : "",
+	"UI_prof_cashierocc" : "[SOTO] 상점 직원",
+	"UI_profdesc_cashierocc" : "",
+	"UI_prof_minerocc" : "[SOTO] 광부",
+	"UI_profdesc_minerocc" : "",
+	"UI_prof_criminalocc" : "[SOTO] 범죄자",
+	"UI_profdesc_criminalocc" : "몇 가지 즉석 무기 레시피를 알고 있습니다.",
+	"UI_prof_animalcontrolofficerocc" : "[SOTO] 축산 담당자",
+	"UI_profdesc_animalcontrolofficerocc" : "몇 가지 덫 놓는 레시피를 알고 있습니다.",
+	"UI_prof_hunterocc" : "[SOTO] 사냥꾼",
+	"UI_profdesc_hunterocc" : "몇 가지 덫 놓는 레시피를 알고 있습니다.",
+    "UI_prof_veterinarianocc" : "[SOTO] 수의사",
+	"UI_profdesc_veterinarianocc" : "",
+
+	"UI_trait_fragilehealth" : "[SOTO] 연약한",
+	"UI_trait_fragilehealthdesc" : "근력과 체력이 느리게 훈련됩니다.<br>너무 많은 짐을 나르면 건강에 문제가 생길 수 있습니다.<br>(-30%% 근력 및 체력 XP,<br>무거운 짐 상태는 점차 건강을 50%%로 감소시킵니다.)",
+
+      "UI_prof_wanderer" : "방랑자",
+      "UI_profdesc_wanderer" : "자신의 이야기를 만들어가세요.<br><br><RGB:255,255,0> 방랑자 장화를 갖고 있습니다. <RGB:255,255,255> <br>",
+
+      "UI_prof_scout" : "정찰병",
+      "UI_profdesc_scout" : "정찰과 생존의 전문가로, 미지의 지역을 탐색하는 데 능숙합니다.<br><br><RGB:255,255,0> 정찰병의 가방을 갖고 있습니다. <RGB:255,255,255><br>",
+
+      "UI_prof_tinkerer" : "땜장이",
+      "UI_profdesc_tinkerer" : "제한된 자원을 활용해 독특한 장치와 수정품을 제작합니다.<br>",
+
+      "UI_prof_fieldmedic" : "야전 의무병",
+      "UI_profdesc_fieldmedic" : "응급 처치와 긴급 대응 훈련을 받은, 현장에서 생명을 구하는 준비가 되어 있는 전문가입니다.<br>",
+
+      "UI_prof_agriculturist" : "농업 전문가",
+      "UI_profdesc_agriculturist" : "농사와 식량 생산의 달인으로, 지속 가능성을 보장합니다.<br>",
+
+      "UI_prof_gearhead" : "자동차 애호가",
+      "UI_profdesc_gearhead" : "기계와 메커니즘을 사랑하는 사람으로, 차량 수리 및 개선에 능숙합니다.<br>",
+
+      "UI_prof_trademaster" : "상인",
+      "UI_profdesc_trademaster" : "협상가이자 거래 전문가로, 유리한 조건을 이끌어냅니다.<br>",
+
+      "UI_prof_tracker" : "추적자",
+      "UI_profdesc_tracker" : "정확한 추적 기술로 생존자들을 찾아내는 전문가입니다.<br>",
+
+      "UI_prof_commsspecialist" : "통신 전문가",
+      "UI_profdesc_commsspecialist" : "정보 전달과 통신 시스템에 능통한, 중요한 소통을 담당합니다.<br>",
+
+      "UI_prof_contractgun" : "살인청부업자",
+      "UI_profdesc_contractgun" : "전문적인 총기 소유자로, 위험한 계약을 수행하는 데 능숙합니다.<br>",
+
+      "UI_prof_watchmen" : "경비원",
+      "UI_profdesc_watchmen" : "주변을 감시하고 경계를 서는 데 능한 전문가입니다.<br>",
+
+      "UI_prof_blacksmith" : "대장장이",
+      "UI_profdesc_blacksmith" : "금속을 다루고 무기와 도구를 제작하는 데 뛰어난 장인입니다.<br>",
+
+      "UI_prof_threadsmith" : "방직사",
+      "UI_profdesc_threadsmith" : "직물과 실을 다루며, 유용한 아이템을 제작하는 능력을 가집니다.<br>",
+
+      "UI_prof_firepitchef" : "화로 요리사",
+      "UI_profdesc_firepitchef" : "화로에서 다양한 요리를 만들어내는 재능이 있는 요리사입니다.<br>",
+
+      "UI_prof_woodcutter" : "나무꾼",
+      "UI_profdesc_woodcutter" : "효율적으로 나무를 베어내며, 목재 자원을 관리하는 전문가입니다.<br>",
+
+      "UI_prof_shelterbuilder" : "피난처 건설자",
+      "UI_profdesc_shelterbuilder" : "안전한 대피소를 설계하고 구축하는 데 능숙한 사람입니다.<br>",
+
+      "UI_prof_outcast" : "추방자",
+      "UI_profdesc_outcast" : "사회의 규범에서 벗어난 존재로, 독립적인 생존을 추구합니다.<br>",
+
+      "UI_prof_scrapangler" : "스크랩 앵글러",
+      "UI_profdesc_scrapangler" : "버려진 자원을 활용해 유용한 아이템을 찾는 전문가입니다.<br>",
+
+      "UI_trait_tinkerer2" : "수리공",
+      "UI_trait_tinkerer2Desc" : "기술 전문가: 기기 수리에 능숙하며 특수 폭발물을 제작하는 방법을 알고 있음.<br><br><RGB:255,255,0> 땜장이 장갑을 갖고 있습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_EngineBuilder" : "엔진 제작자",
+      "UI_trait_EngineBuilderDesc" : "고도로 숙련된 정비사. <br>모든 차량 모델의 유지보수 및 수리에 능숙함.<br><br><RGB:255,255,0> 정비공 렌치를 갖고 있습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_BlacksmithMaster" : "전문 대장장이",
+      "UI_trait_BlacksmithMasterDesc" : "희귀 자원을 사용해 정교한 무기를 제작할 수 있음.<br><br> <RGB:255,255,0> 대장장이 망치를 갖고 있습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_Cook3" : "화로 요리사",
+      "UI_trait_Cook3Desc" : "붕괴 이전의 레시피를 알고 있으며, 신선한 쥐를 제대로 튀기는 방법을 알고 있음.<br><br><RGB:255,255,0> 셰프의 후라이팬, 뒤집개를 갖고 있습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_TrainedGunman" : "훈련된 총잡이",
+      "UI_trait_TrainedGunmanDesc" : "총기 취급 및 전술에 능숙한 숙련된 전투 전문가. <br> 다양한 총기에 능통하여 언데드 및 살아 있는 위협에 효과적으로 대처할 수 있음.<br><br> <RGB:255,255,0> 용병 조끼를 갖고 있습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_Vern" : "버논",
+      "UI_trait_VernDesc" : "버논의 방식을 받아들여라! <br>버논은 총기와 그것에 관련된 모든 것을 싫어한다.<br><br> <RGB:255,255,0>조준 및 재장전 기술의 레벨과 경험치를 얻을 수 없습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_AllHailCaesar" : "카이사르 만세",
+      "UI_trait_AllHailCaesarDesc" : "원숭이들! 함께! 강해지자!<br>",
+
+      "UI_trait_Agriculturist" : "농업 전문가",
+      "UI_trait_AgriculturistDesc" : "작물 재배의 전문가. <br>다양한 작물의 관리, 특정 요구 사항 및 재배 최적화에 매우 능숙함.<br><br> <RGB:255,255,0> 감자 씨앗이 20개 들어있는 농부의 씨앗 주머니를 갖고 있습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_ShelterBuilder" : "대피소 건설자",
+      "UI_trait_ShelterBuilderDesc" : "목공 및 건축의 대가. <br>튼튼하고 기능적인 피난처, 구조물 및 요새를 제작하는 것으로 명성이 높음.<br><br><RGB:255,255,0> 건축업자 망치, 못 4개를 갖고 있습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_FieldMedic" : "야전 의무병",
+      "UI_trait_FieldMedicDesc" : "응급 치료의 베테랑, 부상 및 질병을 진단하고 치료하는 데 매우 경험이 풍부함. <br>현장에서 효과적인 의료 지원을 제공하기 위해 주어진 자원을 능숙하게 활용함.<br><br><RGB:255,255,0> 살균된 붕대와 알코올 솜 2개가 들어있는 야전 의무병의 허리 가방를 갖고 있습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_ThreadSmith" : "방직사",
+      "UI_trait_ThreadSmithDesc" : "바늘과 실의 대가로, 독보적인 재봉 기술로 알려져 있음. <br>복잡한 의류와 섬유 작품을 제작하는 데 매우 경험이 풍부함.<br><br> <RGB:255,255,0> 가위, 바늘, 실 4개가 들어있는 방직사의 도구 키트를 갖고 있습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_Tracker" : "추적자",
+      "UI_trait_TrackerDesc" : "특수 추적 기술을 가진 생존자, 자연의 징후를 읽을 수 있음. <br> 먹잇감의 흔적을 따라가거나 다른 생존자들의 움직임을 추적하는 등,<br>그들의 전문성은 매우 뛰어남.<br><br><RGB:255,255,0> 추적자의 모자, 올가미 덫 2개를 갖고 있습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_Wanderer" : "유랑자",
+      "UI_trait_WandererDesc" : "혼자 떠도는 여행자, 위협으로 가득한 가혹한 세계에서 자신의 이야기를 엮어가는 이.<br>",
+
+      "UI_trait_Trader" : "무역상",
+      "UI_trait_TraderDesc" : "자원을 잘 활용하는 상인, 위험한 지역을 헤치며 혼란 속에서 이익을 추구하는 이.<br><br> <RGB:255,255,0> 무전기 (수제), 상인의 허리 가방, 벨트를 갖고 있습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_CommSpecialist" : "통신 전문가",
+      "UI_trait_CommSpecialistDesc" : "통신 장비의 작동, 제작 및 유지보수에 매우 능숙함. <br>연락을 설정하고 주파수를 감시하는 데 능숙함<br><br><RGB:255,255,0> 리튬 배터리, 통신 전문가의 라디오, '아마추어 무선 ARRL 핸드북' - 미국 아마추어 무선 연맹를 갖고 있습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_Guardsmen" : "경비병",
+      "UI_trait_GuardsmenDesc" : "강인한 생존자. <br>언데드와 살아 있는 위협 모두에 대한 주변 방어에 능숙함.<br><br> <RGB:255,255,255> 파수꾼 장갑을 갖고 있습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_Lumberjack" : "나무꾼",
+      "UI_trait_LumberjackDesc" : "목재 채취와 가공의 전문가. <br>나무를 베는 것에 능숙하며, 언데드와 살아 있는 적 모두를 상대하는 데 숙련됨.<br><br><RGB:255,255,0> 돌 도끼, 나무꾼의 셔츠를 갖고 시작합니다. <RGB:255,255,255><br>",
+
+      "UI_trait_Shunned" : "추방자",
+      "UI_trait_ShunnedDesc" : "생존자들 사이에서 추방된 이, 다른 이들에 의해 이유가 불명확하거나 오해받아 배척된 자.<br><br><RGB:255,255,0> 어스웜 짐 게임, 사과가 들어있는 추방자 가방을 갖고 있습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_BagsAndBelts" : "가방과 벨트",
+      "UI_trait_BagsAndBeltsDesc" : "효율적인 가방과 벨트 사용에 능숙한 상인. <br>여행과 거래 중에 더 높은 최대 운반 용량을 가지고 있음. <br><br><RGB:0,255,255> 힘 32까지 최대 운반 용량 증가 <RGB:255,255,255><br>",
+
+      "UI_trait_ScrapAngler" : "스크랩 앵글러",
+      "UI_trait_ScrapAnglerDesc" : "어설픈 금속 가공 기술을 가진 낚시 전문가입니다.<br>재활용 자재를 활용하여 자신만의 낚시 장비를 제작하고 유지하며, 스크랩을 낚시 도구로 변형합니다.<br><br><RGB:255,255,0> 낚싯대를 갖고 있습니다. <RGB:255,255,255><br>",
+
+
+      "UI_trait_Axe1" : "도끼 초보자",
+      "UI_trait_Axe1Desc" : "도끼 전투의 기초를 배우는 생존자<br>",
+
+      "UI_trait_Axe2" : "도끼 전문가",
+      "UI_trait_Axe2Desc" : "경험 많은 전사로, 도끼 전투에 능숙하며 나무와 언데드의 살을 손쉽게 베어낼 수 있음.<br>",
+
+      "UI_trait_Axe3" : "도끼 달인",
+      "UI_trait_Axe3Desc" : "고도로 숙련된 벌목가이자 도끼 사용자. <br>언데드 무리들을 가르는 데 있어 독보적인 능력으로 알려져 있음.<br>",
+
+
+      "UI_trait_ShortBlunt1" : "짧은 둔기 초보자",
+      "UI_trait_ShortBlunt1Desc" : "타격 전투의 기초를 배우는 생존자<br>",
+
+      "UI_trait_ShortBlunt2" : "짧은 둔기 전문가",
+      "UI_trait_ShortBlunt2Desc" : "경험 많은 전사로, 타격 전투에 능숙하며 장애물과 언데드를 처리하는 데 능숙함.<br>",
+
+      "UI_trait_ShortBlunt3" : "짧은 둔기 저거너트",
+      "UI_trait_ShortBlunt3Desc" : "현장에서의 힘의 대가인 이 전사는 타격 무기를 무시무시한 힘으로 다루며, <br>언데드 무리들을 손쉽게 부수는 능력을 가지고 있음.<br>",
+
+
+      "UI_trait_Blunt1" : "긴 둔기 초보자",
+      "UI_trait_Blunt1Desc" : "긴 타격 전투의 기초를 배우는 생존자<br>",
+
+      "UI_trait_Blunt2" : "긴 둔기 전문가",
+      "UI_trait_Blunt2Desc" : "긴 타격 전투에 능숙하며, 장애물과 언데드를 무너뜨리는 데 능숙함.<br>",
+
+      "UI_trait_Blunt3" : "긴 둔기 파괴자",
+      "UI_trait_Blunt3Desc" : "긴 타격 무기를 휘두르며 언데드 무리들을 손쉽게 밀어붙이는 강력한 전사.<br>",
+
+
+      "UI_trait_ShortBlade1" : "단검 초보자",
+      "UI_trait_ShortBlade1Desc" : "칼 전투의 기초를 배우는 생존자<br>",
+
+      "UI_trait_ShortBlade2" : "단검 전문가",
+      "UI_trait_ShortBlade2Desc" : "칼 전투에 능숙한 경험 많은 전사로, 언데드를 조용히 처치하는 데 능숙함.<br>",
+
+      "UI_trait_ShortBlade3" : "단검 암살자",
+      "UI_trait_ShortBlade3Desc" : "칼을 다루는 대가. <br>치명적인 정밀도로 타격하며, 언데드와 살아 있는 적들을 신속하게 처치함.<br>",
+
+
+      "UI_trait_Blade1" : "장검 초보자",
+      "UI_trait_Blade1Desc" : "검 전투의 기술을 배우는 생존자<br>",
+
+      "UI_trait_Blade2" : "장검 전문가",
+      "UI_trait_Blade2Desc" : "검 전투에 능숙한 경험 많은 전사로, 언데드를 가르는 데 능숙함.<br>",
+
+      "UI_trait_Blade3" : "장검 사무라이",
+      "UI_trait_Blade3Desc" : "고대 검술에 능숙한 전사. <br>언데드 무리들을 우아하게 베어내며 독보적인 기술과 정밀함으로 치명적인 힘을 발휘함.<br>",
+
+
+      "UI_trait_Spear1" : "투창 초보자",
+      "UI_trait_Spear1Desc" : "창 전투의 기술을 배우는 생존자<br>",
+
+      "UI_trait_Spear2" : "투창 랜서",
+      "UI_trait_Spear2Desc" : "창 전투에 능숙한 경험 많은 전사. <br>언데드를 관통하고 찌르는 데 능숙함.<br>",
+
+      "UI_trait_Spear3" : "투창 스파르탄",
+      "UI_trait_Spear3Desc" : "창을 다루는 대가. <br>정밀함과 민첩성으로 언데드를 찌르면서 완벽하게 거리를 유지함.<br>",
+
+
+      "UI_trait_Maint1" : "물건 관리를 잘함",
+      "UI_trait_Maint1Desc" : "기본적인 접착제와 덕트 테이프 사용법에 대한 지식<br>",
+
+      "UI_trait_Maint2" : "물건 관리 전문가",
+      "UI_trait_Maint2Desc" : "고급 장비 수리 및 기본 최적화에 대한 지식<br>",
+
+
+      "UI_trait_Aim1" : "사격 초보자",
+      "UI_trait_Aim1Desc" : "조준 및 사격의 기초 훈련<br>",
+
+      "UI_trait_Aim2" : "사격 저격수",
+      "UI_trait_Aim2Desc" : "고급 조준 및 사격 기술에 훈련된 생존자<br>",
+
+      "UI_trait_Aim3" : "사격 명사수",
+      "UI_trait_Aim3Desc" : "매우 숙련되고 훈련된 생존자. <br>원거리 무기를 사용한 정밀 사격에 뛰어남.<br>",
+
+
+      "UI_trait_Reload1" : "재장전 초보자",
+      "UI_trait_Reload1Desc" : "총기 재장전의 기본 지식<br>",
+
+      "UI_trait_Reload2" : "재장전 전문가",
+      "UI_trait_Reload2Desc" : "총기 재장전에 경험이 풍부한 생존자. <br>압박 속에서도 빠르고 매끄럽게 재장전하는 데 능숙함.<br>",
+
+      "UI_trait_Reload3" : "재장전 마스터",
+      "UI_trait_Reload3Desc" : "총기 재장전에 매우 능숙함. <br>번개처럼 빠르게 재장전하여 전투 중의 공백 시간을 최소화함.<br>",
+
+      "UI_trait_Fishing1" : "스피어 피셔",
+      "UI_trait_Fishing1Desc" : "창낚시 기술에 능숙함.<br>",
+
+      "UI_trait_Fishing2" : "전문 낚시꾼",
+      "UI_trait_Fishing2Desc" : "고급 낚시 능력을 가진 생존자. <br>특수 기술과 장비를 사용하여 다양한 종류의 물고기를 잡는 데 능숙함.<br>",
+
+
+      "UI_trait_Cooking1" : "아마추어 요리사",
+      "UI_trait_Cooking1Desc" : "당신이 먹고죽지 않을만큼의 식사를 만드는 데 능숙함. <br>이를 요리 생존 테스트로 생각하라.<br>",
+
+
+      "UI_trait_Wood1" : "목공 초보자",
+      "UI_trait_Wood1Desc" : "기초적인 목공 기술.<br>",
+
+      "UI_trait_Wood2" : "목공 전문가",
+      "UI_trait_Wood2Desc" : "고급 목공 지식. <br>튼튼한 구조물과 가구를 제작하는 데 능숙함.<br>",
+
+      "UI_trait_Wood3" : "목공 전문가",
+      "UI_trait_Wood3Desc" : "목공의 전문가. <br>회수한 자재를 재활용하여 내구성 있는 구조물을 만드는 데 능숙함.<br>",
+
+
+      "UI_trait_Farm2" : "농사 전문가",
+      "UI_trait_Farm2Desc" : "작물 재배에 대한 매우 높은 이해. <br>다양한 작물과 그들의 최적 성장을 위한 구체적인 요구 사항에 대한 지식이 풍부함.<br>",
+
+      "UI_trait_Farm3" : "농사 달인",
+      "UI_trait_Farm3Desc" : "작물 재배에 대한 고급 이해. <br>다양한 작물과 그들의 최적 성장을 위한 구체적인 요구 사항에 대한 지식이 풍부함.<br>",
+
+      "UI_trait_Medic2" : "의료 조무사",
+      "UI_trait_Medic2Desc" : "기본 의료에 능숙함. <br>부상, 질병 치료 및 응급 처치에 숙련됨.<br>",
+
+      "UI_trait_Medic3" : "의료 전문가",
+      "UI_trait_Medic3Desc" : "종합 의료의 전문가. <br>부상, 질병 및 상태를 효과적으로 진단하고 치료하는 데 매우 숙련됨.<br>",
+
+      "UI_trait_Elect1" : "전기 수습생",
+      "UI_trait_Elect1Desc" : "전기 시스템에 대한 기본 지식이 있음.<br>",
+
+      "UI_trait_Elect2" : "전기 전문가",
+      "UI_trait_Elect2Desc" : "전기 시스템에 대한 중급 기술. <br>복잡한 회로와 전기 장비를 수리하는 데 능숙함.<br>",
+
+      "UI_trait_Metal1" : "용접 견습생",
+      "UI_trait_Metal1Desc" : "금속 가공에 대한 기본적인 이해가 있음.<br>",
+
+      "UI_trait_Metal2" : "용접 수습생",
+      "UI_trait_Metal2Desc" : "금속 가공에 대한 고급 기술. <br>금속을 형태로 만들고, 결합하며, 수리하는 데 능숙함.<br>",
+
+      "UI_trait_Metal3" : "용접 전문가",
+      "UI_trait_Metal3Desc" : "금속 가공 기술의 전문가. <br>고급 용접 방법을 사용하여 복잡한 금속 구조를 단련하고 제작하는 데 매우 능숙함.<br>",
+
+      "UI_trait_Sew1" : "재봉 전문가",
+      "UI_trait_Sew1Desc" : "재봉에 대한 중급 기술.<br>",
+
+      "UI_trait_Sew2" : "재봉 명인",
+      "UI_trait_Sew2Desc" : "재봉 기술의 전문가. <br>의류 디자인 및 제작에 매우 능숙하며, 고급 재봉 기술을 활용하는 데 뛰어남.<br>",
+
+      "UI_trait_Forage1" : "자연 탐험가",
+      "UI_trait_Forage1Desc" : "자연 세계를 예리하게 관찰하는 이.<br>",
+
+      "UI_trait_Forage2" : "야생 관리관",
+      "UI_trait_Forage2Desc" : "다양한 지형과 환경을 항해하는 데 경험이 풍부함.<br>",
+
+      "UI_trait_Forage3" : "나는 자연인이다",
+      "UI_trait_Forage3Desc" : "자연에서 자원을 찾는 대가. <br>식물과 동물에 대한 고도의 지식을 가지고 있으며, 야생에서 자급자족할 수 있음.<br>",
+
+      "UI_trait_Trap1" : "함정 초보자",
+      "UI_trait_Trap1Desc" : "작은 게임을 잡기 위한 함정에 대한 기본적인 이해가 있음.<br>",
+
+      "UI_trait_Trap2" : "함정 기술자",
+      "UI_trait_Trap2Desc" : "덫과 간단한 함정을 설치하는 데 능숙함.<br>",
+
+      "UI_trait_Trap3" : "함정 전문가",
+      "UI_trait_Trap3Desc" : "은밀한 먹이를 잡기 위해 정교한 함정을 설계하고 배치할 수 있는 능력이 있습니다.<br>",
+
+      "UI_trait_Mechanics3" : "숙련된 기계공",
+      "UI_trait_Mechanics3Desc" : "차량 수리에 대한 높은 수준의 지식을 보유하고 있습니다.<br>",
+
+      "UI_trait_Mechanics4" : "전문 기계공",
+      "UI_trait_Mechanics4Desc" : "자동차 기계 분야의 전문가입니다. 참고 자료가 제공되면 차량 시스템의 구축 및 유지보수에 매우 능숙합니다.<br>",
+
+      "UI_trait_LightweightTraveler" : "경량 여행자",
+      "UI_trait_LightweightTravelerDesc" : "과도한 짐을 지는 것에 불편함을 느끼는 이 생존자는 과도한 짐을 피하려 합니다. 최대 운반 능력이 감소되었습니다.<br><br> <RGB:0,255,255> 최대 근력일 때 15kg까지만 운반 가능 <RGB:255,255,255><br>",
+
+      "UI_trait_breathingTechnique" : "세이자 호흡법",
+      "UI_trait_breathingTechniqueDesc" : "이를 통해 지상에 앉아 있을 때 더 빠르게 체력을 회복할 수 있습니다.<br><br> <RGB:0,255,255> 앉아 있는 동안 체력 회복 속도가 25%% 증가 <RGB:255,255,255><br>",
+      "UI_breathingTechniquefullendurance" : "당신은 다시 안정된 호흡을 느낍니다.",
+
+      "UI_trait_QuietMovement" : "조용한 움직임",
+      "UI_trait_QuietMovementDesc" : "조용히 움직이는 것을 선호하는 생존자입니다.<br>",
+
+      "UI_trait_Agile" : "기민한",
+      "UI_trait_AgileDesc" : "민첩하고 빠르며, 유동적인 움직임의 기본을 알고 있는 생존자입니다.<br>",
+
+      "UI_trait_FrogFriend" : "개구리 친구",
+      "UI_trait_FrogFriendDesc" : "여러분과 함께 세상을 여행하며 동반자가 되어주는 믿을 수 있는 개구리 친구를 맞이하게 되었습니다.<br><br><RGB:0,255,255> 개구리 1마리를 갖고 있으며 다른 효과는 없습니다. <RGB:255,255,255><br>",
+
+      "UI_trait_BrittleBody" : "취약한 몸",
+      "UI_trait_BrittleBodyDesc" : "매 걸음이 힘들게 느껴지고, 모든 짐을 들어 올리는 것이 힘들게 느껴집니다.<br>",
+
+      "UI_trait_MushroomGatherer" : "버섯 채집가",
+      "UI_trait_MushroomGathererDesc" : "버섯을 발견하는 데 탁월한 눈을 가진 생존자입니다.<br>하지만 발견한 버섯이 식용인지 독성이 있는지에 대한 지식은 부족합니다.<br>",
+
+      "UI_trait_CoffeeLover" : "커피 애호가",
+      "UI_trait_CoffeeLoverDesc" : "아포칼립스 속에서 귀중한 상품인 고급 커피 한 팩을 발견한 것을 소중히 여기고 있습니다.<br>",
+
+      "UI_trait_WineLover" : "와인 애호가",
+      "UI_trait_WineLoverDesc" : "아포칼립스 속에서 극히 희귀한 상품인 고급 와인 한 병과 섬세한 와인잔을 발견한 것을 소중히 여기고 있습니다.<br>",
+
+      "UI_trait_ComicGeek" : "만화광",
+      "UI_trait_ComicGeekDesc" : "마음 깊이 만화를 사랑하는 이 생존자는 잘 보존된 두 권의 만화책을 소중히 간직하고 있습니다.<br>",
+
+      "UI_trait_BookLover" : "책 애호가",
+      "UI_trait_BookLoverDesc" : "이 생존자는 아포칼립스 속에서 매우 희귀한 물건 중 하나인 잘 보존된 두 권의 책을 소중히 여기고 있습니다.<br>",
+
+      "UI_trait_KillerEcstasy" : "연쇄살인범",
+      "UI_trait_KillerEcstasyDesc" : "매 번 살생을 할 때마다 생존자는 흥분감으로 가득 차게 됩니다.<br>이는 행복감을 높이고 지루함을 낮추는 효과가 있습니다.<br>하지만 이런 강렬한 쾌감은 평소보다 더 많은 땀을 흘리게 만듭니다.<br><br> <RGB:0,255,255> 좀비를 처치 할 경우 불행이 0.5, 지루함 0.35 이 감소하며, 땀을 0.75 만큼 흘립니다 <RGB:255,255,255><br>",
+
+      "UI_trait_Peaceful" : "평화로운 약자",
+      "UI_trait_PeacefulDesc" : "좀비를 죽일 때마다 생존자는 불안감에 휩싸이게 됩니다.<br>이는 행복감을 낮추고 스트레스를 높이는 효과가 있습니다. <br>혹시 그들이 마음속으로는 살아있고 단지 갇혀있는 것은 아닐까 하는 걱정이 드는 것입니다.<br><br> <RGB:0,255,255> 좀비를 처치 할 경우 불행이 0.4, 스트레스 0.04 증가합니다. <RGB:255,255,255><br>",
+
+      "UI_trait_DrunkenMaster" : "취권 마스터",
+      "UI_trait_DrunkenMasterDesc" : "이 생존자는 술에 취해 전투력을 높이는 방법을 사용합니다.<br>하지만 각각의 언데드를 물리칠 때마다 그들은 점점 더 깨어나게 됩니다.<br><br> <RGB:0,255,255> 취한 상태에서 +25%% 데미지 <RGB:255,255,255><br>",
+
+      "UI_trait_Lifter" : "중량 작업자",
+      "UI_trait_LifterDesc" : "대부분의 사람들보다 더 많은 짐을 편하게 들고 다니는 이 생존자는 추가적인 짐을 모두 훈련으로 여깁니다.<br>힘 27까지 최대 짐 운반 무게가 증가합니다.<br>",
+
+      "UI_trait_InsectHunter" : "곤충 사냥꾼",
+      "UI_trait_InsectHunterDesc" : "곤충을 발견하는 타고난 재능을 지닌 이 생존자는 다른 사람들이 보지 못하는 곳에서도 곤충을 찾아낼 수 있습니다.<br>야생에서 곤충을 찾을 확률이 증가합니다.<br>",
+
+      "UI_trait_Bleeder" : "출혈자",
+      "UI_trait_BleederDesc" : "상처가 과도하게 출혈되어 상처의 심각도가 높아지고 생존에 위험을 초래합니다.<br><br> <RGB:0,255,255> 출혈로 인한 피해 +100%% <RGB:255,255,255><br>",
+
+      "UI_trait_DislikesHeavyLoad" : "무거운 짐을 싫어하다",
+      "UI_trait_DislikesHeavyLoadDesc" : "너무 많은 짐을 지고 다니면 이 생존자가 점차 스트레스를 받게 됩니다.<br><br> <RGB:0,255,255> 최대 짐 운반 무게의 80%% 이상일 경우 스트레스 증가 <RGB:255,255,255><br>",
+
+      "UI_trait_LightLoadLover" : "가벼운 짐 애호가",
+      "UI_trait_LightLoadLoverDesc" : "이 생존자는 가벼운 짐을 지고 다닐 때 행복감과 스트레스 해소를 느낍니다.<br>무거운 짐보다는 민첩성과 자유를 선호합니다.<br><br> <RGB:0,255,255> 최대 짐 운반 무게의 30%% 미만일 경우 스트레스 감소 및 행복감 증가 <RGB:255,255,255><br>",
+
+      "UI_trait_StressEater" : "스트레스 공포증",
+      "UI_trait_StressEaterDesc" : "스트레스를 받을 때마다 배고픔을 느끼게 되어, 스트레스가 높은 상황에서 음식 소비량이 늘어나게 됩니다.<br><br> <RGB:0,255,255> 스트레스 상태에서 점차적으로 배고픔 수준이 \"배고픔\"으로 증가 <RGB:255,255,255><br>",
+
+      "UI_trait_Thanathophobic" : "죽음 공포증",
+      "UI_trait_ThanathophobicDesc" : "죽음에 대한 극도의 공포로 인해, 부상을 입으면 이 생존자가 끊임없는 스트레스를 받게 됩니다.<br><br> <RGB:0,255,255> HP가 90%% 미만일 때 점점 \"흥분\" 수준의 스트레스가 쌓임 <RGB:255,255,255><br>",
+
+      "UI_trait_ChronicPain" : "만성 통증",
+      "UI_trait_ChronicPainDesc" : "밤마다 지속되는 고통에 시달리는 이 생존자는 일상생활이 불편합니다. 진통제가 매우 중요합니다.<br><br> <RGB:0,255,255> 매일 밤 \"통증\" 부터 \"심각한 통증\" (드물게 \"고통\")까지의 무작위 통증 수준을 받게 됨 <RGB:255,255,255><br>",
+
+      "UI_trait_Hoat_CouchPotato" : "게으른 사람",
+      "UI_trait_Hoat_CouchPotatoDesc" : "항상 게으르고 힘이 약한 이 생존자는 다른 곳보다 소파에 누워있는 시간이 더 많았습니다.<br>어떻게 이 오랫동안 살아남았는지는 누구나 의문을 가질 수밖에 없습니다.<br>",
+
+      "UI_trait_Nudist" : "누디스트",
+      "UI_trait_NudistDesc" : "옷을 벗은 상태의 자유로움을 선호합니다. <br>옷을 벗고 있을 때 행복감이 증가하지만, 옷을 입고 있을 때는 불편함을 느낍니다.<br><br><RGB:0,255,255> 배낭, 신발, 시계, 그리고 모든 \"액세서리\" 유형의 아이템은 옷으로 간주되지 않습니다.<br>옷을 입지 않았을 때, 불행 증가률이 감소하며, 옷을 입었을 경우에는 불행이 증가합니다. <RGB:255,255,255><br>",
+
+      "UI_trait_Sprinter" : "스프린터",
+      "UI_trait_SprinterDesc" : "질주하는 것에서 기쁨과 안도감을 느낍니다.<br><br> <RGB:0,255,255> 달리는 동안 점차 행복감이 높아지고 지루함이 감소합니다 <RGB:255,255,255><br>",
+
+      "UI_trait_SoftWalker" : "조용한 걸음걸이",
+      "UI_trait_SoftWalkerDesc" : "거의 소음 없이 움직여 적들이 탐지하기 어렵습니다.<br>",
+
+      "UI_trait_LittleBuddy" : "작은 친구",
+      "UI_trait_LittleBuddyDesc" : "이 생존자는 언제나 사랑하는 스피포 인형을 가지고 다니며, 이 가혹한 세상에서 가장 가까운 동료입니다.<br>스피포를 잃어버린다면 이 생존자에게 가장 끔찍한 일이 될 것입니다.<br><br><RGB:0,255,255> 스피포가 인벤토리에 있을 때 스트레스 0.2, 지루함 10, 불행 10이 감소하지만,<br>절대 스피포를 잃어버리지 마세요... 그렇게 되면 후회하게 될 것입니다.<br>스피포가 없다면 긴장 100으로 설정, 스트레스 0.3, 불행 20이 증가합니다. <RGB:255,255,255><br>",
+
+      "UI_trait_FlexTaper" : "필립 스위프트",
+      "UI_trait_FlexTaperDesc" : "이 생존자는 완벽한 초강력 접착 테이프를 만드는 방법을 알고 있습니다.<br>",
+
+      "UI_gain_Desensitized" : "감정이 점점 희미해지다",
+      "UI_gain_Bravey" : "용기가 당신의 마음을 채우다!",
+
+      "UI_trait_SmokerDesc" : "담배를 피우면 스트레스와 불행이 감소합니다.<br> 담배를 피우지 않으면 스트레스와 불행이 올라갑니다.<br><br><RGB:255,255,0> 담배, 라이터를 갖고있습니다 <RGB:255,255,255><br>"
+}

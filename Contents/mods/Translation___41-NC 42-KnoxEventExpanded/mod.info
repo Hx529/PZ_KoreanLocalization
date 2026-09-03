@@ -1,0 +1,7 @@
+name=[Hx] 모드 한글화 - (선택형) Nested Containers
+id=Hx_KR_NestedContainers
+poster=poster.png
+icon=icon.png
+description=Nested Containers의 한글 번역 <LINE>
+description=일부 lua 파일을 변경만 하므로, 원본 모드가 필요합니다
+require=NestedContainer01

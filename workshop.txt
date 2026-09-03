@@ -1,0 +1,58 @@
+version=1
+id=3040632900
+title=Hx's 좀보이드 통합 번역
+description=번역된 모드 및 정보 공유
+description=[url=https://docs.google.com/spreadsheets/d/1mvICZ2zet0rIlq-07fFTJWmXbkvNSl0WoWujl3-ULkA/edit?usp=sharing]Google Sheets[/url]
+description=
+description=[h1]적용법[/h1]
+description=[img]https://i.imgur.com/K1oT7ZZ.png[/img]
+description=모드 우선순서 설정에서 하단에 배치해주세요.
+description=
+description=[hr][/hr]
+description=
+description=[b]B41[/b]
+description=특성 설명에 노란색 글씨는 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2997342681]라이프스타일[/url] 모드와 시작 시, 소지하는 아이템에 대한 설명입니다.
+description=하늘색 글씨의 경우, 원본 특성에서 자세한 설명을 도와주는 텍스트입니다.
+description=
+description=[b]B42[/b]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3387957272]Detailed Descriptions for Occupations and Traits[/url]
+description=
+description=[img]https://i.giphy.com/wRhSi68hscY8xNOlXS.webp[/img]
+description=[b]좋아요 한번만 눌러주시면 감사하겠습니다.[/b]
+description=
+description=[u][h3][url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3040632900]업데이트 기록[/url][/h3][/u]
+description=
+description=[list]
+description=[*]통합 번역
+description=[*]SOTO
+description=[*]Moodle Descriptions Expanded
+description=[*]Show Sowing Season In Seed Tooltip
+description=[*]Rain's Firearms & Gun Parts
+description=[*]Day Trading
+description=[*]EscapeFromKentucky42
+description=[*]Firearms
+description=[*]Harder Hotwire
+description=[*]Improved Projectile B42
+description=[*]More Traits Dynamic
+description=[*]Filibuster Rhymes' Acceptable Guns
+description=[/list]
+description=
+description=총기 추가 모드 번역의 경우, 바닐라 총기의
+description=스펙(탄 종류)를 변경하는 경우가 있어 필요시 적용하시는걸 추천합니다.
+description=
+description=더 나중에 불러오는 번역을 최종적으로 적용합니다.
+description=
+description=[hr][/hr]
+description=
+description=[h2][u]함께 사용하면 좋은 모드: PZGKO[/u][/h2]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2900444089][img]https://steamuserimages-a.akamaihd.net/ugc/1996814231518621243/1719D3AFFB4D923CACC111A2ABE73B6C7FCB17E2/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true[/img][/url]
+description=
+description=[h3]번역 제작에 도움 주신 분[/h3]
+description=[url=https://steamcommunity.com/profiles/76561198993860470][b]SkyBlue[/b][/url]
+description=
+description=[h1]댓글은 활성화 되어 있습니다. 혹시나 보이지 않는다면
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/comments/3040632900] 해당 링크를 눌러주세요[/url][/h1]
+description=
+description=[spoiler]Korean, Korea, Republic of Korea, 한국어, 한글, 번역, 번역팩, 한글패치, 대한민국, 42빌드, 42버전, B42, 한글화[/spoiler]
+tags=Build 41;Build 42;Language/Translation
+visibility=public

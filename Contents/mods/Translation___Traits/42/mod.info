@@ -1,0 +1,10 @@
+name=[Hx] 모드 한글화 - Detailed Descriptions for Occupations and Traits
+id=Hx_KR_MoreDescriptionForTraits
+poster=poster.png
+icon=icon.png
+description=해당 모드와 같이 사용하시면 텍스트가 너무 길어져서 텍스트가 초과됩니다. `MoreDescriptionForTraits`
+category=translation
+author=Hx
+modversion=1.0
+versionMin=42.0.0
+versionMax=42.15

@@ -1,0 +1,1083 @@
+[ ALERT_CONFIG ]
+link1 = Workshop = https://steamcommunity.com/sharedfiles/filedetails/?id=3040632900,
+[ ------ ]
+
+
+[ 25/01/01 ]
+- AutoLoot 개선
+- Change Sandbox Options 추가
+- Goth Glasses 추가
+- Functional Appliances 2 추가
+[ ------ ]
+
+[ 25/01/02 ]
+- Mod Moodle Framework
+- Neon Moodle Levels
+- 번역 개선
+[ ------ ]
+
+[ 25/01/04 ]
+- Vanilla DuffelBag Tweak
+- Authentic Z
+- 번역 개선
+[ ------ ]
+
+[ 25/01/06 ]
+- AutoMechanics
+- 번역 개선
+[ ------ ]
+
+[ 25/01/07 ]
+- SurvivorName 번역
+- 번역 개선
+[ ------ ]
+
+[ 25/01/10 ]
+- Authentic Z
+- Functioning Clothing line
+- Functional Appliances 2
+[ ------ ]
+
+[ 25/01/11 ]
+- 바닐라 번역 분리
+[ ------ ]
+
+[ 25/01/12 ]
++ [Item] Functional Appliances 2
++ [Item] Bianca Wardrobe
++ [ALL] School's Out: Anime-Style Student Uniforms
++ [Item] Vanilla Gear Expanded
++ [UI] ModTag
+[ ------ ]
+
+[ 25/01/12 ]
++ [ALL] LLTC
+[ ------ ]
+
+[ 25/01/13 ]
++ [ALL] Wheelbarrow from Hydrocraft
++ [ALL] ahz clothing b42
+[ ------ ]
+
+[ 25/01/15 ]
++ Vanilla MRE
++ Pumps Have Propane
++ LLTC
+[ ------ ]
+
+[ 25/01/16 ]
++ Example B42 Mod Options
++ LLTC
+[ ------ ]
+
+[ 25/01/18 ]
++ Auto Tailoring
++ Scavenging Skill
++ Vehicle Salvage
++ Driving Skill
+[ ------ ]
+
+[ 01/20/25 ]
+------ 통합 번역 ------
+번역 개선
+  - 좌, 우 구분 변경
+
+번역 추가
+  - Where are the animals?
+  - True Crawl B42
+  - Simple Context Stats
+  - Survival
+  - LLTC
+  - GZ Skills Panel
+  - Known and collected
+  - Show Sowing Season in Seed Tooltip
+[ ------ ]
+
+[ 01/23/25 ]
+------ 통합 번역 ------
+번역 추가
+  - Light-Switch Overhaul
+  - Weapon Condition Indicator
+[ ------ ]
+
+[ 01/23/25 ]
+------ 통합 번역 ------
+번역 추가
+  - Vehicle Class Overhaul
+[ ------ ]
+
+[ 01/25/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - Show Sowing Season In Seed Tooltip
+[ ------ ]
+
+[ 01/30/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - BinaryDimension
+  - Gun's Elevator mod
+  - Tactical Sheaths
+[ ------ ]
+
+[ 02/11/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - Vending machine API
+  - Better Electronics
+  - CraftableMannequins
+  - PZwaystone
+  - bikinitools - independent vehicle spawner, skin changer and automations!
+  - Customisable Zoom
+  - Picking Meister
+[ ------ ]
+
+[ 02/12/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - Disable context craft (toggle)
+[ ------ ]
+
+[ 02/14/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - Context Menu Crafting
+[ ------ ]
+
+[ 02/23/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - Goth Backpacks & Bags B42
+  - Fridges Off!
+  - TakeAnyAmount
+  - Doomsday MotorHome
+  - FlipVehiclePlusTrailer
+  - Craftable Mannequins
+  - Make Dried Fruit
+
+번역 모드 업데이트
+  - Survival
+
+컨텍스트 추가되는 모드 출처 표기
+[ ------ ]
+
+[ 02/26/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - Legend Craft Evolved
+  - Quick Access
+  - Fruits in jars
+  - Weapon Modifiers
+[ ------ ]
+
+[ 02/27/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - EscapeFromKentucky42
+[ ------ ]
+
+[ 02/28/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - Combat Traits
+  - Cooler Backpack
+  - True Crawl Stealth Mode
+  - Livestock zones expanded
+  - Knox Event Expanded NPC
+  - Mandarin's Bedding
+  - Ash's Gothic Style: Booty Skirt
+  - KeyRinger - Wallet and KeyRing logical storage
+  - Dismantle Any Car
+
+번역 개선
+  - LLTC
+  - Picking Meister
+[ ------ ]
+
+[ 03/01/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - Cat's eye in the dark
+  - Item Comparison
+  - Advanced Trajectory
+  - Dive Thru Windows
+[ ------ ]
+
+[ 03/01/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - Escape From Tarkov Backpacks
+  - Useful Barrels
+  - Military Tool Kit
+  - Stairs Alert
+  - Auto Read
+  - Pack Mule
+  - Ash's: Thigh High Leatherette Goth Boots
+
+번역 개선
+  - Knox Event Expanded NPC 0.2.17 버전 업데이트
+[ ------ ]
+
+[ 03/01/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - Support Goods Mega Mod (임시)
+
+번역 개선
+  - EscapeFromKentucky42
+[ ------ ]
+
+[ 03/01/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - Nepenthe's Expert Driver Trait
+  - Nepenthe's High Beams
+  - Barefoot Moodle
+  - Background Framework
+[ ------ ]
+
+[ 03/07/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - Pack Mule
+  - Frockin Splendor!
+
+번역 개선
+  - Authentic Z - Current
+  - Factory Pieces
+  - LLTC
+[ ------ ]
+
+[ 03/08/25 ]
+------ 통합 번역 ------
+- 폰트 모드 호환을 위해, 특수문자 제거 후 문자열로 변경
+[ ------ ]
+
+[ 03/09/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - HDCP Vehicle Color UI
+  - Twitch Stats
+  - BM Super Speed Settings
+  - Dynamic Backpack Upgrades
+[ ------ ]
+
+[ 03/11/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - Generator Time Remaining
+  - Clean UI
+  - Functional Gutters
+  - The Best Lockpicking aka Better Lockpicking
+  - Industrial Revolution
+  - Dreams
+  - Efficiency Skill Mod
+  - Industrial Revolution Vehicle Parts
+
+번역 개선
+  - Cooler Backpack
+
+번역 별도 모드
+  - Day Trading
+[ ------ ]
+
+[ 03/12/25 ]
+------ 통합 번역 ------
+번역 개선
+  - Sapph's Cooking
+  - LLTC
+  - EscapeFromKentucky42
+  - Rain's Firearms & Gun Parts
+  - SOTO
+  - Authentic Z - Current
+
+특성 선택창에서, 모드로 인해 추가된 특성 표시
+
+번역 통합
+  - 차량 번역을 통합 번역에 이식 (분리된 모드는 삭제)
+  - 맵 번역을 통합 번역에 이식 (분리된 모드는 삭제)
+[ ------ ]
+
+[ 03/15/25 ]
+------ 통합 번역 ------
+번역 개선
+  - Factory Pieces
+  - Industrial Revolution
+
+특성 선택창에서, 모드로 인해 추가된 특성 표시
+
+번역 통합
+  - 차량 번역을 통합 번역에 이식 (분리된 모드는 삭제)
+  - 맵 번역을 통합 번역에 이식 (분리된 모드는 삭제)
+[ ------ ]
+
+[ 03/16/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - Grapeseed
+  - Tikitown
+[ ------ ]
+
+[ 03/18/25 ]
+------ 통합 번역 ------
+번역 모드 추가
+  - Another Twitch Stats
+  - Collapsible Ladder
+[ ------ ]
+
+[ 03/22/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - Uncle Dave was a Prepper
+    - More Difficult Zones
+    - Diagonal Floors & Roads
+    - Farming Expansion B42
+    - Effortless Towing
+
+  번역 업데이트
+    - Useful Barrels
+    - FlipVehiclePlusTrailer
+    - Factory Pieces
+    - Rain's Firearms & Gun Parts
+[ ------ ]
+
+[ 03/25/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - Craft Backpacks and Containers
+
+  번역 업데이트
+    - Wolf Extraction Quest
+    - 기타 수정
+[ ------ ]
+
+[ 03/27/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - Modren Status
+    - Share Annotations
+    - Draw On The Map
+    - CountryGurl Bikini
+    - Ranger Operator
+    - InnaWoods Survivalist
+    - The Plaid Sherry Dress
+    - Ash's Soft And Gentle Croptop Hoodie [B42]
+    - True Music Jukebox
+
+  번역 업데이트
+    - Craft Backpacks and Containers
+    - Industrial Revolution
+    - Wallpapers and More Paint
+[ ------ ]
+
+[ 03/29/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - HydeCoFillableGasTanks
+    - Map Mod Manager
+    - Make Nails from Wood
+    - Random Name Generator
+    - Energy Drinks
+    - Customizable Containers
+    - Liel's Drinks
+    - Pump Pury
+[ ------ ]
+
+[ 05/21/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - Time Decreases Car Condition
+    - Functional Escalators
+    - H.E.C.U.
+    - Bicycle
+    - Skateboard
+    - Caster Plus
+    - Map Move
+
+  번역 업데이트
+    - Support Goods Mega Mod
+    - Useful Barrels (원본 모더에게 업데이트 내용 전달)
+    - B42 Rain's Firearms & Gun Parts
+    - LLTC
+    - Kick Scooters
+    - Survival
+    - Farming Expansion B42(Trees)
+[ ------ ]
+
+[ 05/21/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - Intuitive Crafting
+    - Open All Containers
+
+  번역 업데이트
+    - The Best Lockpicking aka Better Lockpicking
+    - ZuperCarts
+[ ------ ]
+
+[ 05/28/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - PZK NewCoalfield
+    - Eat Smart
+    - Frockin Splendor! Vol.2
+    - Frockin Splendor! Vol.3
+    - LittleTownship B42
+    - Willowbrook Bastion!
+    - Fear The Sun
+    - Open All Containers
+[ ------ ]
+
+[ 06/01/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - Stone Hacksaw
+    - Homemade Things
+    - Craft Plaster
+    - Craft Concrete
+    - JM3
+    - Make Burlap
+    - Craft Clay
+    - Intuitive Crafting
+[ ------ ]
+
+[ 06/11/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - Pomp's Items - Just the Food
+    - Survival HUD
+    - Wild Fruits
+    - Ultimate Generator Overhaul
+[ ------ ]
+
+[ 06/15/25 ]
+------ 통합 번역 ------
+  - 42빌드 번역문 41빌드에도 통합
+
+  번역 업데이트
+    - HydeCoFillableGasTanks
+
+  번역 모드 추가
+    - HydeCo. Bees!
+    - Home Inventory
+[ ------ ]
+
+[ 06/18/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - Show Key Origin
+[ ------ ]
+
+[ 06/18/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - More Item Information
+    - Make Leather/Thread from Leather Clothes
+    - True Smoking
+    - What The Junk - Assign Item Categories
+
+  번역 업데이트
+    - Ranger Operator
+    - Tactical Sheats
+    - Caster Plus
+    - Erika's Tiles
+    - HydeCo. Bees!
+    - Frockin Splendor!
+    - Frockin Splendor! Vol.2
+    - Rain 총기 모드
+    - Firearam 총기 모드
+    - JM3
+    - Perts Party Tiles
+    - RaccoonCity
+    - School's Out: Anime-Style Student Uniforms [MAIN]
+    - Support Goods Mega Mod [B42] - Blizzard Update
+    - Willowbrook Bastion!
+    - FantasyWorkshop VS 42_2.0
+[ ------ ]
+
+[ 07/01/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - Nepenthe's Local Knowledge
+    - Project Indiana Expansion B42
+    - Street Smarts
+    - AdvancedTrajectoryPlus
+    - Foraging Tooltip Extended
+[ ------ ]
+
+[ 07/03/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - Neat Crafting
+
+  번역 업데이트
+    - Craft and Build Category Translate 모드 카테고리 번역 추가
+[ ------ ]
+
+[ 07/05/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - Red Days
+    - Seesaw Game
+    - Clean HotBar
+
+  모드 유지보수를 위해, 맵 선택 번역과 분리
+[ ------ ]
+
+[ 07/07/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3464634208]Weather Damage Mod[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404956403]N&C's Narcotics[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3519087048]Take Those Bricks![/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3497748766]2DimensionWardrobe[/url]
+    - [url=]Item stats display[/url]
+
+  번역 업데이트
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2503622437]Skill Recovery Journal[/url]
+
+  모드 유지보수를 위해, 맵 선택 번역과 분리
+[ ------ ]
+
+[ 07/16/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3470657747]Asthma mod[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3522009163]Home Inventory Improved[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3522453285]Spiffomon 3D[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2955134683]Babies[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2955134683]Now you can loot it![/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3523568197]More Feature of Rain Collector[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3470422050]KATTAJ1 Clothes Core[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3521263771][J&G] Firefighter Uniform[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3475347500]Frockin Splendor! Vol.4[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3475536311]Mowing with scythe[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3519916139]Zombaroid[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3504700167]Attach Bags To Sheet Rope[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3460812542]Washing Menus Improved[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3520758551]Way More Cars[/url]
+[ ------ ]
+
+[ 07/16/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - Lifestyle
+[ ------ ]
+
+[ 07/23/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3504080284]Camden County[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3498269494]Kingsmouth[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3493916941]Ashenwood B42[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3495993590]Hazelnut Manor[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3490580478]Fort Benning[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3436499337]Vehicle Military Zone[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3522680786]Interactive Tailoring[/url]
+    - [url=https://github.com/Jini42/PZB42RVInteriorCommunityProject]RV Interior fork[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3491939136]Bandit Zombies Expanded[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3529036160]A Really CD DA Trait[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3529109383]Bodily Functions [PREVIEW v0.13.0][/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2696986935]Barricaded World[/url]
+
+  번역 업데이트
+    - Lifestyle
+    - darlak's H.E.C.U
+    - EscapeFromKentucky42
+[ ------ ]
+
+[ 07/23/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3531611692]Lethal Stealth[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3437429771]Injectors[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3437429771]Brewing Expanded[/url]
+
+  번역 업데이트
+    - RaccoonCity
+    - Survival
+[ ------ ]
+
+[ 07/25/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3532207785]Blood 4 Breath[/url]
+[ ------ ]
+
+[ 07/25/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3536052310]Neat Building[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2961069019]Nx's Compare items[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3397851081]UsefulFlareGun[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3439305933]Functional Gutters[/url]
+
+  번역 업데이트
+    - Disable context craft (toggle)
+    - Nepenthe's High Beams
+    - Sound Scouter
+    - Home Inventory Improved
+[ ------ ]
+
+[ 08/01/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3474681173]42CQC[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3539339798]Hacking Skill & Traits[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3474681173]Fog Damage Mod Singelplayer[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3470426196]KATTAJ1 Military Pack[/url]
+[ ------ ]
+
+[ 08/04/25 ]
+------ 통합 번역 ------
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3540297822]TableSaw[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3540268758]My So-Called Toy[/url]
+
+  번역 업데이트
+    - Show Key Origin
+    - Building Craft
+[ ------ ]
+
+[ 08/05/25 ]
+------ 통합 번역 ------
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3527778645]Honu's Find That Item[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3523568197]Super Rain Collector (More Feature of Rain Collector)[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3020323164]Add More Map Symbols (AMMS)[/url]
+
+  번역 업데이트
+    - gunsElevator
+[ ------ ]
+
+[ 08/08/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3543229299]PROJECT RV Interior[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3543060884]Honu's Mod Info QoL[/url]
+
+  번역 업데이트
+    - Honu's Find That Item
+[ ------ ]
+
+[ 08/08/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3543197840]Distant Inventory Access[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3539632193]Ceilings Mod and API[/url]
+[ ------ ]
+
+[ 08/08/25 ]
+------ 통합 번역 ------
+  번역 업데이트
+    - EscapeFromKentucky42
+[ ------ ]
+
+[ 08/08/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3424309174]HGO-Expansion-Exp[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3478924012]Auto Forage[/url]
+[ ------ ]
+
+[ 08/11/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3387563172]Alternate Occupations[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3199474685]Long-standing Metal Constructions[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3001306950]DirtinessSickness[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3546314080]Water Pipes (aka Plumbing)[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3543612325]Restore Engine Quality [B42][/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3400448921]Handmade maps: A Map Overhaul [B42][/url]
+
+  번역 업데이트
+    - atchat's Outdoors Tiles
+    - Ceilings Mod and API
+    - Farming Expansion B42
+[ ------ ]
+
+[ 08/14/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3545533939]Toughness Skill[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2544353492]Has Been Read[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2629074154]StackAll[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2714850307]Horde Night[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2716710487]Slower Sprinters[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2867163008]Everything Has a Name[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2887274097]SSAULAVI[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2894296454]Change Sandbox Options (by Star)[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3381181930]Auto ChopTrees & Get All Logs[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3386961288]Plumb Helper plus[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3409143790]Sapph's Cooking[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3438126404]Nep High Beams[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3540903327][B42] Pack Mule v2[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3531765630]Tomb's Goth Makeup[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3513206060][LM] Wilderness Locations - All Maps (B42)[/url]
+
+  번역 업데이트
+    - Crashed Cars
+    - More Traits
+    - MoreDescriptionForTraits4166
+    - Customizable Containers
+    - Vehicle Repair Overhaul
+    - Tidy Up Meister
+    - Functional Appliances 2
+    - Medical Meister
+    - Decoholic
+    - Functional Clothesline
+    - Knox Event Expanded NPC
+    - True Music Jukebox
+    - Show Sowing Season In Seed Tooltip
+    - Useful Barrels
+    - BM Fast Forward x3 Speed
+    - Uncle Dave was a Prepper
+    - Farming Expansion
+    - Caster Plus
+    - Distant Inventory Access
+    - Hacking Skill
+    - Lethal Stealth
+    - Red Days
+    - Support Goods Mega Mod [B42] - PREDATOR
+[ ------ ]
+
+[ 08/16/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3485349033]fol_Take_A_Bath[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3456212729]Eat Smart[/url]
+
+  번역 업데이트
+    - Lethal Stealth
+    - Way More Cars
+    - Now you can loot it!
+[ ------ ]
+
+[ 08/20/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3308966632]KatanaStance2[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3390258342]10 Years Later - Light edition[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3543229299]PROJECT RV Interior Custom Addon[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3528649608]More Shoes Addition 42[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3423115544]BetterFPS_B42[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3413130261]10 Years Later - WIP[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3171167894]that DAMN Library[/url]
+
+  번역 업데이트
+    - Injectors
+    - Wallpapers and More Paint Options
+    - Nep Universal RV Interiors SpecEmerg
+    - Lethal Stealth
+    - Picking Meister
+    - Filibuster Rhymes' Used Cars! - Animation Alpha
+[ ------ ]
+
+[ 08/21/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3528649608]More Shoes Standlone[/url]
+
+  번역 업데이트
+    - 모드로 인해 추가된 건축, 레시피 구분 추가
+    - H.E.C.U.
+    - Project Indiana Expansion B42 DEMO
+    - True Smoking
+    - UNOFFICIAL Fools New Containers B42
+    - Tikitown
+[ ------ ]
+
+[ 08/21/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - WaterPipes Irrigation Systems
+    - Read While Walking
+    - Perfect Hair
+    - [MT] Anime Hair
+    - Tomb's Goth Hair
+    - [MT] Female Clothes Framework
+    - [MT] Female Stockings
+    - [MT] Female Underwear
+    - [MT] Female Shoes
+    - [MT] Female Top
+    - [MT] Tactical Bags
+    - [MT] Female Bulletproof
+    - [MT] Female Masks
+    - [MT] Female Accessories
+
+  번역 업데이트
+    - Livestock zones expanded
+    - Way More Cars
+    - PROJECT RV Interior Custom Addon
+    - Immersive Suicide
+    - Goth Backpacks & Bags B42
+    - More Shoes Addition 42
+    - [B42] FantasyWorkshop 2.0
+[ ------ ]
+
+[ 08/25/25 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3529109383]Bodily Functions[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3391244620]Dodge[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3078291265]Gunpoint Redemption[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2792714394]Better Tiles Picker[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2714850307]Horde Night[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3553635874]RV Life[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3554570236]Filibuster Rhymes' Acceptable Guns DEMO![/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3555453653]Mail Order Catalogs[/url]
+
+  번역 업데이트
+    - Knox Event Expanded NPC
+    - Waystone
+    - Vehicle Repair Overhaul
+    - Functional Clothesline
+    - Show Wall Health
+    - FreeYourHands
+[ ------ ]
+
+[ 25/08/28 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3403697073]Bag Upgrade Plus[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3555791254]Boiling Eggs[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3554341903]Mindset[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2875059598]Herbalist[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2955134683]Babies[/url]
+
+  번역 업데이트
+    - Hacking
+    - Way More Cars
+
+  41빌드 번역 동기화
+[ ------ ]
+
+[ 25/08/29 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - Repair Wall
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3555588616]Ogrim Mod's - Sewing Workbranch[/url]
+
+  번역 업데이트
+    - More Item Information
+[ ------ ]
+
+
+[ 25/08/29 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3557652317]Stairs East&South [B42][/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3472334215]Post Apocalyptic Weapons[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3393305357]Paniqeur Trait[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3498347699]Somewhat Traits[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3555558732]Ogrim Mod's - Machine Utils[/url]
+[ ------ ]
+
+
+[ 25/08/31 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3535139736]Ogrim Mod's - Clean Rags On Clothing Washer[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2867084324]Worse Zombie Loot Condition[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3156717285]Low Quality Zombie Clothing[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3549290115]Ogrim Mod's - My Own Well[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3558835419]Ogrim Mod's - Universal Profession Customizer[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3555407625][B41\B42] DBG Crowbar Unlock[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3519612062]Zombies Drop Bones[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3519612062]Knife actions improve[/url]
+
+  번역 업데이트
+    - Herbalist
+    - Honu's Find That Item
+    - Ammo Maker
+[ ------ ]
+
+[ 25/09/05 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3518662691]JM3 Archery[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3479641945]JM3 propane[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3559765660]Realistic Car Physics[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3479867929]The Division Equipment[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2106657533]Pillow's Random Scenarios[/url]
+
+  번역 업데이트
+    - Stairs East&South [B42]
+[ ------ ]
+
+
+[ 25/09/08 ]
+------ 통합 번역 ------
+  샌드박스 이름 수정
+    [V]: 차량 중심 컨텐츠
+    [M]: 맵 중심
+    [I]: 아이템 & 레시피 중심
+    [W]: 무기 중심 컨텐츠
+    [A]: 컨텐츠
+    [D]: 디버그
+    [C]: 편의성 중심
+    [Z]: 좀비 중심
+    [F]: 수정
+
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3539114542]SpearFishing[/url]
+
+  번역 업데이트
+    - EFK
+    - UNOFFICIAL Fools New Containers for B42
+[ ------ ]
+
+[ 25/09/10 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3564950449]Project Summer Car[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3565376571]Generator Tweaks - Core[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3565384224]Generator Tweaks - Condition[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3565386560]Generator Tweaks - Fuel[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3565390473]Generator Tweaks - Indoors[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3565393936]Generator Tweaks - Power[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3565395489]Generator Tweaks - Sound Silent[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3565244378]Briefing[/url]
+
+  번역 업데이트
+    - EFK ([url=https://steamcommunity.com/profiles/76561198054057537]qkrdydzl[/url] 지원)
+    - Realistic Car Physics
+[ ------ ]
+
+[ 25/09/13 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3564084857]Nade's Craftable Instruments[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3555407625][B41\B42] DBG Crowbar Unlock[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3555407625]Random Airdrops[/url]
+
+  번역 업데이트
+    - JM3
+    - Somewhat
+[ ------ ]
+
+[ 25/09/21 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3567084868]Mod Manager[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3423660713]Mod Load Order Sorter[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3569031613]Hybrid Melee Repair[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3568029240]Pocket Kittens (B42)[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3567109091]Wiki That![/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3547444619]Vanvival - Build's 42 Nomadic Experience[/url]
+
+    Ogrim Mod's - Universal Profession Customizer 번역 임시 제거 (모드 문제)
+[ ------ ]
+
+[ 25/09/26 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3572122233]Trading Trailer [B41/B42][/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3572846242]Detailed Skill Tooltips[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3571757687]Forage Icon Extension[/url]
+
+  번역 업데이트
+    - Wiki That
+[ ------ ]
+
+
+[ 25/10/01 ]
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3562222835]Hybrid Gun Repair[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3577903007]Vanilla Foods Expanded[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3576056135]Better Generator Info[/url]
+[ ------ ]
+
+[ 25/10/04 ]
+v1.1
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3556845588]Ribs Framework[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3573698093]Primitive Crafting[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3565451575]100YL: Infinite Sandstorm[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2629074154]Stack All[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3551139118]Ogrim Mod's - Universal Custom Firearm[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3555199477]Undying Zombies[/url]
+
+  번역 업데이트
+    - Way More Cars
+    - Customizable Containers
+    - Spongie's Hair
+    - Vehicle Repair Overhaul
+    - Detailed Skill Tooltips
+    - Ogrim Mod's - Sewing Workbranch
+    - Ogrim Mod's - Machine Utils
+    - Red Days
+    - Weather Moodles
+    - Hybrid Gun Repair
+    - Wolf Extraction Quest
+    - REVIVAL
+    - EFK42
+    - N&C's Narcotics
+    - Knox Event Expanded NPC
+    - Rain's Firearms & Gun Parts Expanded
+    - Picking Meister
+    - Handmade maps: A Map Overhaul [B42]
+    - Sapph's Cooking
+    - HGO-Expansion-Exp
+
+  바닐라 총기를 덮어쓰지 않는 총기 번역 모드는 통합 번역으로 이동됨
+    - Filibuster Rhymes' Acceptable Guns DEMO
+    - Real Firearms
+[ ------ ]
+
+[ 25/10/04 ]
+v1.2
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3582919946]Somewhat Companions[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3579088411]Infirmities[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3555677825]Yandere's New Hairstyles For Vanilla[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3388867450]PhunZones[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3411695932]PhunLib[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3582024827]Better Animal Care[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3579640010]StarkTruffle Additions - Pry Open[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3577100076]Cold Winters[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3303590197]Fred's Night Vision Goggles[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3348223428]US Military Professions V4[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3578904583]Fix Missed Shoves[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3580511016]SCP Pack[/url]
+
+  번역 업데이트
+    - Vanilla Foods Expanded
+    - KnoxEventExpanded
+[ ------ ]
+
+[ 25/10/18 ]
+v1.3
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3133520800]Veracious Network's Garage[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3586145865]Improvised Backpack[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3586023097]Incubator Egg Acelered[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3583736984]JB's Big Wood[/url]
+
+  번역 업데이트
+    - Vanilla Foods Expanded
+[ ------ ]
+
+[ 25/10/18 ]
+v1.3.1
+------ 통합 번역 ------
+  번역 업데이트
+    - Customizable Containers
+[ ------ ]
+
+
+[ 25/12/04 ]
+v1.3.2
+------ 통합 번역 ------
+  번역 모드 추가
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3616536783]Tomb's Wardrobe - Alternative[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3615135168]ZVirusVaccine42[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3615135168]ResearchLabInternProfession[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3609351095]Better Cooking[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3608589196]SprintersOverTime[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3607686447]ImmersiveBlackouts[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3607392720]TacticalSnowyShadow[/url]
+    - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3592057359]Bug Zapper 9000[/url]
+[ ------ ]

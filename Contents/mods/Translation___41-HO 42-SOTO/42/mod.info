@@ -1,0 +1,11 @@
+modVersion=1
+
+name=[Hx] 모드 한글화 - SOTO, Hephas Occupations
+id=Hx_KR_SOTO
+poster=poster.png
+icon=icon.png
+author=Hx
+category=translation
+versionMin=42.0.0
+description=Simple Overhaul: Traits and Occupations, Hephas Occupations
+modversion=1.0
