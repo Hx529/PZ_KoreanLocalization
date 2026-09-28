@@ -715,7 +715,7 @@
   "Forge_Spoons" : "단조 숟가락 세공하기",
   "Forge_Tongs" : "금속 집게 세공하기",
 
-  "Forge" : "대장간",
+  "Forge" : "간단한 대장간",
   "Split_Steel_Sheet_Into_Small_Sheets" : "금속판 4등분으로 자르기",
 
   "Assemble_Articulated_Shin_Armor" : "유연한 판금 정강이 갑옷 세공하기",
@@ -2233,7 +2233,7 @@
   "TarpHandwrap" : "방수포 손감싸개 만들기",
   "TarpFootwrap" : "방수포 발감싸개 만들기",
   "TarpHat" : "방수포 모자 만들기",
-  "AssembleLargeTarpFramepack" : "방수포 대형 프레임백 조립하기",
+  "AssembleLargeTarpFramepack" : "간단한 방수포 프레임백 조립하기",
   "MakeTarpSlingBag" : "방수포 슬링백 만들기",
   "TarpSack" : "방수포 자루 만들기",
   "SewSheepskinVest" : "양가죽 조끼 재봉하기",

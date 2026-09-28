@@ -161,5 +161,9 @@
     "Farming_Tooltip_NotAPlant": "식물이 아님.",
     "Farming_Tooltip_ItemUsed": "사용됨",
     "Farming_Tooltip_PlantHasEnoughWater": "식물에 물이 가득 찼음.",
-    "Farming_Tooltip_NotAFurrow": "고랑이 아님."
+    "Farming_Tooltip_NotAFurrow": "고랑이 아님.",
+
+    "/** EN 원문 대비 누락 키 추가 **/" : "",
+    "Farming_Strawberry plant": "딸기",
+    "Farming_Seed-bearing": "씨앗 채취 가능한"
 }

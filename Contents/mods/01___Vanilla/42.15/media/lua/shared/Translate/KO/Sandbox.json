@@ -90,8 +90,8 @@
 	"Sandbox_MedicalLootNew_tooltip" : "의료 품목(예: 붕대)\n\n<SIZE:small>없음 : 0.0\n극단적 : 0.05\n미친듯이 희귀함 : 0.2\n희귀함 : 0.4\n보통 : 1\n흔함 : 2\n풍부함 : 3",
 	"Sandbox_FoodLootNew" : "신선식품",
 	"Sandbox_FoodLootNew_tooltip" : "썩을 수 있는 음식(예: 채소)\n\n<SIZE:small>없음 : 0.0\n극단적 : 0.05\n미친듯이 희귀함 : 0.2\n희귀함 : 0.4\n보통 : 1\n흔함 : 2\n풍부함 : 3",
-	"Sandbox_LiteratureLootNew" : "서적",
-	"Sandbox_LiteratureLootNew_tooltip" : "읽을 수 있는 항목\n\n<SIZE:small>없음 : 0.0\n극단적 : 0.05\n미친듯이 희귀함 : 0.2\n희귀함 : 0.4\n보통 : 1\n흔함 : 2\n풍부함 : 3",
+	"Sandbox_LiteratureLootNew" : "기타 서적",
+	"Sandbox_LiteratureLootNew_tooltip" : "책, 전단지, 신문을 포함한 기타 모든 읽을거리\n\n<SIZE:small>없음 : 0.0\n극단적 : 0.05\n미친듯이 희귀함 : 0.2\n희귀함 : 0.4\n보통 : 1\n흔함 : 2\n풍부함 : 3",
 	"Sandbox_CannedFoodLootNew" : "보존식품",
 	"Sandbox_CannedFoodLootNew_tooltip" : "통조림 등 절대 썩지 않는 식품\n\n<SIZE:small>없음 : 0.0\n극단적 : 0.05\n미친듯이 희귀함 : 0.2\n희귀함 : 0.4\n보통 : 1\n흔함 : 2\n풍부함 : 3",
 	"Sandbox_WeaponLootNew" : "근접무기류",
@@ -322,7 +322,7 @@
 	"Sandbox_SeeNotLearntRecipe" : "알려지지 않은 레시피 보기",
 	"Sandbox_SeeNotLearntRecipe_tooltip" : "활성화했다면 아직 배우지 않았더라도 스테이션으로 할 수 있는 모든 레시피를 볼 수 있습니다.",
 	"Sandbox_AnimalMatingSeason" : "발정기",
-	"Sandbox_AnimalMatingSeason_tooltip" : "짝짓기 시즌이 있는 동물은 이를 존중합니다. <br>그렇지 않으면 일 년 내내 번식하거나 알을 낳을 수 있습니다.",
+	"Sandbox_AnimalMatingSeason_tooltip" : "켜면 동물은 (번식기가 있는 경우) 번식기에만 짝짓기를 합니다. <br>끄면 일 년 내내 번식하거나 알을 낳을 수 있습니다.",
 	"Sandbox_Physics" : "물리학",
 	"Sandbox_RagdollUsePhysicHitReaction" : "래그돌(물리 엔진 효과) 사용",
 	"Sandbox_RagdollUsePhysicHitReaction_tooltip" : "히트 리액션 애니메이션이 래그돌 피직스로 대체됩니다.",
@@ -903,7 +903,7 @@
 	"Sandbox_EnduranceRegen_option5" : "매우 느림",
 
 	"Sandbox_Nutrition" : "음식 영양가",
-	"Sandbox_Nutrition_tooltip" : "음식의 영양가는 캐릭터의 건강상태에 영향을 미칩니다.",
+	"Sandbox_Nutrition_tooltip" : "음식의 영양가는 캐릭터의 건강상태에 영향을 미칩니다. 끄면 캐릭터의 체중이 늘거나 줄지 않습니다.",
 
 	"Sandbox_StarterKit" : "게임 시작시 기본물품",
 	"Sandbox_StarterKit_tooltip" : "가방과 몇 가지 유용한 도구소지하고 시작합니다",
@@ -1304,5 +1304,8 @@
 	"Sandbox_DisableFakeDead" : "죽은 척하는 좀비 설정",
 	"Sandbox_DisableFakeDead_option1" : "세상에 있는 일부 좀비들만 죽은 척함.",
 	"Sandbox_DisableFakeDead_option2" : "세상에 있는 일부 좀비들과 당신이 '죽인' 좀비들도 죽은 척함.",
-	"Sandbox_DisableFakeDead_option3" : "죽은 척하는 좀비 비활성화"
+	"Sandbox_DisableFakeDead_option3" : "죽은 척하는 좀비 비활성화",
+
+"/** EN 원문 대비 누락 키 추가 **/" : "",
+"Sandbox_PresetName_Error": "이하의 기호는 사용이 불가능합니다: /  \\\\  :  ;  \\  ."
 }
