@@ -1,0 +1,12 @@
+{
+    "Sandbox_ChanceOfAttachedWeapon_tooltip": "기본 확률 6%%",
+    "Sandbox_LootRarity": "전리품 희귀도 (+ MLS)",
+    "Sandbox_Rarity_option1": "없음 (loot x 0)",
+    "Sandbox_Rarity_option2": "미친듯이 적음 (loot x 0.05)",
+    "Sandbox_Rarity_option3": "매우 적음 (loot x 0.2)",
+    "Sandbox_Rarity_option4": "적음 (loot x 0.6)",
+    "Sandbox_Rarity_option5": "보통 (loot x 1.0)",
+    "Sandbox_Rarity_option6": "많음 (loot x 2.0)",
+    "Sandbox_Rarity_option7": "매우 많음 (loot x 3.0)",
+    "Sandbox_Map": "게임 내 지도 (+ Conditional Mini-Map)"
+}

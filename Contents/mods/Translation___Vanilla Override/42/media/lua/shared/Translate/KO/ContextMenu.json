@@ -1,0 +1,23 @@
+{
+    "ContextMenu_InsertBulletsInMagazine": "[Rain] 탄창에 탄 %1 발 넣기",
+    "ContextMenu_PinkChevron": "분홍색 헤링본",
+    "ContextMenu_GreenFloral": "초록색 플로럴",
+    "ContextMenu_PinkFloral": "분홍색 플로럴",
+    "ContextMenu_BlackFloral": "검은색 플로럴",
+    "ContextMenu_WearOver": "상의 위에 착용하기",
+    "ContextMenu_Delete": "[QD] 아이템 삭제",
+    "ContextMenu_Build": "설치 (목공)",
+    "ContextMenu_CleanBandageEtc": "세척하기",
+    "ContextMenu_Repair": "수리하기 ",
+    "ContextMenu_ThrowCorpseOverFence": "울타리 너머로 시체 던지기",
+    "ContextMenu_Masonry": "석공 작업",
+    "ContextMenu_Tombstone": "묘비",
+    "ContextMenu_Wear": "착용하기",
+    "ContextMenu_Wooden_Pillar": "목재 기둥",
+    "ContextMenu_Inspect": "검사",
+    "ContextMenu_WaterSource": "수도수원",
+    "ContextMenu_ScytheGrass": "풀 뽑기",
+    "ContextMenu_Chop_Tree": "나무 베어 넘기기",
+    "ContextMenu_TieHair": "머리 묶기",
+    "ContextMenu_DamagedHands": "손을 다쳤습니다"
+}

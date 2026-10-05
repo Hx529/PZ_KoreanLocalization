@@ -1,0 +1,10 @@
+name=[Hx] 모드 한글화 - (선택형) 바닐라 문구 변경 모드용
+id=Hx_KR_VanillaOverride
+poster=poster.png
+icon=icon.png
+author=Hx
+description=<RGB:0.8,0.8,1>일부 모드가 바닐라 문구(무들, 특성 설명, 로딩 화면 팁, 바닐라 아이템 이름 등)를 바꾸는 경우의 번역입니다. <LINE> <LINE>
+description=<RGB:1,1,0.3>해당 모드를 사용할 때만 켜 주세요. 통합 번역보다 아래에 배치해야 적용됩니다.
+category=translation
+modversion=1.0
+versionMin=42.15.0

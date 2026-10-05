@@ -158,5 +158,6 @@
     "Tooltip_Barrel_QG_CFWSB" : "총열<br>무게 -0.3<br>사거리 +7",
     "Tooltip_Barrel_QG_ATSB" : "총열<br>반동 -1<br>사거리 +5",
     "Tooltip_Barrel_QG_TTAB" : "총열<br>무게 +0.5<br>사거리 +12",
-    "Tooltip_Barrel_QG_CCB" : "총열<br>조준 시간 +1<br>사거리 +2<br>대미지 +0.5"
+    "Tooltip_Barrel_QG_CCB" : "총열<br>조준 시간 +1<br>사거리 +2<br>대미지 +0.5",
+    "Tooltip_Shield_ArmorShieldHand": "왼손 장비<br>정면 피해를 막습니다"
 }

@@ -3,10 +3,16 @@ id=3040632900
 title=Hx's 좀보이드 통합 번역
 description=번역된 모드 및 정보 공유
 description=[url=https://docs.google.com/spreadsheets/d/1mvICZ2zet0rIlq-07fFTJWmXbkvNSl0WoWujl3-ULkA/edit?usp=sharing]Google Sheets[/url]
+description=[url=https://github.com/Hx529/PZ_KoreanLocalization/blob/main/MODS.md]번역된 모드 목록 (모드 설명, 스팀 링크, 비호환·덮어쓰기 주의)[/url]
 description=
 description=[h1]적용법[/h1]
 description=[img]https://i.imgur.com/K1oT7ZZ.png[/img]
 description=모드 우선순서 설정에서 하단에 배치해주세요.
+description=
+description=[h2]범용 사용[/h2]
+description=통합 번역은 바닐라 번역을 덮어쓰지 않습니다. 목록의 모드를 쓰지 않아도 바닐라 문구가 바뀌지 않으니 어떤 모드 조합에서도 켜 두셔도 됩니다.
+description=무들·특성 설명, 로딩 화면 팁, 바닐라 아이템 이름처럼 [b]바닐라 문구 자체를 바꾸는 모드[/b]를 쓸 때만
+description=[b][Hx] 모드 한글화 - (선택형) 바닐라 문구 변경 모드용[/b]을 통합 번역보다 아래에 함께 켜 주세요.
 description=
 description=[hr][/hr]
 description=
@@ -16,6 +22,7 @@ description=하늘색 글씨의 경우, 원본 특성에서 자세한 설명을 
 description=
 description=[b]B42[/b]
 description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3387957272]Detailed Descriptions for Occupations and Traits[/url]
+description=└ 이 모드의 특성 설명 번역은 [b](선택형) 바닐라 문구 변경 모드용[/b]에 들어 있습니다.
 description=
 description=[img]https://i.giphy.com/wRhSi68hscY8xNOlXS.webp[/img]
 description=[b]좋아요 한번만 눌러주시면 감사하겠습니다.[/b]

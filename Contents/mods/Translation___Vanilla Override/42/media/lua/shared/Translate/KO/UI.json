@@ -1,0 +1,17 @@
+{
+    "UI_modselector_auto": "정렬",
+    "UI_trait_SlowReaderDesc": "책과 다른 읽을거리를 읽는 데 시간이 더 걸립니다.<br><br>독서 속도 -30%%.<br>",
+    "UI_trait_FastReaderDesc": "책을 읽는 데 시간이 덜 걸립니다.<br><br>독서 속도 +30%%.<br>",
+    "UI_trait_ThinSkinnedDesc": "긁히거나 물릴 확률이 높습니다.<br><br>좀비 공격에 부상당할 확률이 1.3배 높습니다.<br>나무에 긁히거나 베이는 것에 조금 더 취약합니다.<br>",
+    "UI_trait_weightgain": "느린 신진대사",
+    "UI_trait_weightloss": "빠른 신진대사",
+    "UI_trait_weightlossdesc": "체중이 줄어드는 경향이 영구적으로 있습니다. 저체중 특성으로 시작합니다.<br><br>체중이 70보다 높으면, 체중을 늘리는 데 필요한 칼로리 +80%%.<br>",
+    "UI_trait_FastLearnerDesc": "경험치 획득량이 늘어납니다.<br><br>체력과 근력을 제외한 모든 기술 경험치 +30%%.<br>",
+    "UI_trait_SlowLearnerDesc": "경험치 획득량이 줄어듭니다.<br><br>체력과 근력을 제외한 모든 기술 경험치 -30%%.<br>",
+    "UI_ClothingType_JacketHat": "판초 (후드 씀)",
+    "UI_ChestHair": "체모",
+    "UI_modselector_modTemplateWarn": "ModTemplate은 모더를 위한 예시용 모드입니다. 정말 활성화하시겠습니까?",
+    "UI_modselector_usupportText1": "일부 모드는 현재 버전에서 사용할 수 없습니다. 필요 버전: ",
+    "UI_modselector_usupportText2": ".",
+    "UI_trait_Asthmatic": "천식"
+}

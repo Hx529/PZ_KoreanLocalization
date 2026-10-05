@@ -2,7 +2,7 @@
     "Sandbox_SOTO" : "[A] Simple Overhaul: Traits and Occupations",
 
     "Sandbox_SOTO_AddFitXPWhileRun" : "운동 중 추가 체력 경험치 획득:",
-    "Sandbox_SOTO_AddFitXPWhileRun_tooltip" : "플레이어는 달리는 동안 50% 확률로 게임당 1 체력 경험치를 얻을 수 있습니다.",
+    "Sandbox_SOTO_AddFitXPWhileRun_tooltip" : "플레이어는 달리는 동안 50%% 확률로 게임당 1 체력 경험치를 얻을 수 있습니다.",
 
     "Sandbox_SOTO_AgilityTraitsObtainable" : "민첩성 특성 습득 가능:",
     "Sandbox_SOTO_AgilityTraitsObtainable_tooltip" : "민첩성 기술을 레벨업하면서 경험치 보너스를 얻을 수 있는 가능성.<br>예를 들어, 플레이어는 '도둑' 특성을 얻어 은신 기술의 경험치 증가를 높일 수 있습니다.",

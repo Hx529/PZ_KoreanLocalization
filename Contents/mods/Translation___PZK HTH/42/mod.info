@@ -1,0 +1,12 @@
+modVersion=1
+
+name=[Hx] 모드 한글화 - PZK Highway to Hell - Megamod DLC 번역
+id=Hx_KR_PZKHTH
+poster=poster.png
+icon=icon.png
+author=Hx
+description=<RGB:0.8,0.8,1> PZK Highway to Hell - Megamod DLC 모드가 바꾸는 바닐라 문구(로딩 화면 팁, 인트로 문구, 차량 이름 등) 번역 <LINE> <LINE>
+description=PZK Highway to Hell - Megamod DLC를 사용할 때만 켜 주세요. 통합 번역과 바닐라 한글화보다 아래에 배치해야 적용됩니다.
+category=translation
+versionMin=42.0.0
+modversion=1.0
