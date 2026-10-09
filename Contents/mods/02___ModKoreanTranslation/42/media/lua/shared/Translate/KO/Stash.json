@@ -1,20 +1,5 @@
 {
-    "Stash_DWAP_09_text1": "최상층, 보급품은 지하에",
-    "Stash_DWAP_31_text1": "붕괴 조심",
-    "Stash_DWAP_31_text2": "지하에 있는 도서관으로 가",
-    "Stash_DWAP_32_text1": "엘리베이터를 타",
-    "Stash_DWAP_41_text1": "왼쪽 마지막 납골실",
-
-    "Stash_ISA_Stash_RiversideW1_t1": "트럭이 떠나는 걸 봤다",
-    "Stash_ISA_Stash_RosewoodE1_t1": "위험: 생존자들은 탈옥한 수감자일 수 있음",
-    "Stash_ISA_Stash_RosewoodE1_t2": "이웃 기지는 버려졌다",
-    "Stash_ISA_Stash_Muldraugh1_t1": "속은 죽었다",
-    "Stash_ISA_Stash_Muldraugh1_t2": "피터 다녀감",
-    "Stash_ISA_Stash_Westpoint1_t1": "환영합니다",
-    "Stash_ISA_Stash_Westpoint1_t2": "맛있는 뇌",
-    "Stash_ISA_Stash_Westpoint1_t3": "마을마다 사재기꾼 하나쯤은 있었지. 그 사람이 어디 살았는지만 찾으면 돼.",
-    "Stash_ISA_Stash_Louisville1_t1": "내일 가게를 털자",
-
+    "========== Exhaustive Power Rework [3786970737] ==========": "",
     "Stash_EPR_UtilityMap": "공공시설 서비스 지도",
     "Stash_EPR_LouisvillePlant_1": "KY 전력 + 조명",
     "Stash_EPR_LouisvillePlant_2": "여기가 돌아야 다른 것도 돌아감",
@@ -35,5 +20,22 @@
     "Stash_EPR_Irvington_2": "서쪽 끝 전부",
     "Stash_EPR_Irvington_3": "차단기는 북쪽 마당 위쪽",
 
-    "Stash_ISA_Stash_RiversideW1_t2": "근처 농장에 머물고 있는 게 틀림없어"
+    "========== Immersive Solar Arrays [BETA] [2969478819] ==========": "",
+    "Stash_ISA_Stash_RiversideW1_t1": "트럭이 떠나는 걸 봤다",
+    "Stash_ISA_Stash_RiversideW1_t2": "근처 농장에 머물고 있는 게 틀림없어",
+    "Stash_ISA_Stash_RosewoodE1_t1": "위험: 생존자들은 탈옥한 수감자일 수 있음",
+    "Stash_ISA_Stash_RosewoodE1_t2": "이웃 기지는 버려졌다",
+    "Stash_ISA_Stash_Muldraugh1_t1": "속은 죽었다",
+    "Stash_ISA_Stash_Muldraugh1_t2": "피터 다녀감",
+    "Stash_ISA_Stash_Westpoint1_t1": "환영합니다",
+    "Stash_ISA_Stash_Westpoint1_t2": "맛있는 뇌",
+    "Stash_ISA_Stash_Westpoint1_t3": "마을마다 사재기꾼 하나쯤은 있었지. 그 사람이 어디 살았는지만 찾으면 돼.",
+    "Stash_ISA_Stash_Louisville1_t1": "내일 가게를 털자",
+
+    "========== Uncle Dave Was a Prepper [3440887907] ==========": "",
+    "Stash_DWAP_09_text1": "최상층, 보급품은 지하에",
+    "Stash_DWAP_31_text1": "붕괴 조심",
+    "Stash_DWAP_31_text2": "지하에 있는 도서관으로 가",
+    "Stash_DWAP_32_text1": "엘리베이터를 타",
+    "Stash_DWAP_41_text1": "왼쪽 마지막 납골실"
 }

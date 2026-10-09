@@ -1,4 +1,17 @@
 {
+    "========== Authentic Z - Backpacks+ / Authentic Z / Authentic Z - Lite [2335368829] ==========": "",
+    "MakeUpType_FullFaceClownFace1Color": "다채로운 광대 얼굴 1",
+    "MakeUpType_FullFaceClownFace2Color": "다채로운 광대 얼굴 2",
+    "MakeUpType_FullFaceFreddy": "프레디",
+    "MakeUpType_FullFaceInsane": "정신병자",
+    "MakeUpType_FullFaceJoker": "조커",
+    "MakeUpType_FullFaceJokerColor": "다채로운 조커",
+    "MakeUpType_FullFaceMimeBlack": "마임 블랙",
+    "MakeUpType_FullFaceMimeRed": "마임 레드",
+    "MakeUpType_FullFacePennywise": "페니와이즈",
+    "MakeUpType_FullFaceShotgunFace": "샷건 페이스",
+
+    "========== Tomb's Goth Hair / Tomb's Goth Makeup [3531765630] ==========": "",
     "MakeUpType_GothEyeShadowBlack": "고스 블랙 아이섀도우",
     "MakeUpType_GothEyeShadowRed": "고스 레드 아이섀도우",
     "MakeUpType_GothEyeShadowCrow": "고스 크로우 아이섀도우",
@@ -16,15 +29,5 @@
     "MakeUpType_FullFaceCorpsepaint1": "시체화장 레이븐",
     "MakeUpType_FullFaceCorpsepaint2": "시체화장 스타일화",
     "MakeUpType_FullFaceCorpsepaint3": "시체화장 클래식",
-    "MakeUpType_FullFacePaleskin": "화이트 파운데이션",
-    "MakeUpType_FullFaceClownFace1Color": "다채로운 광대 얼굴 1",
-    "MakeUpType_FullFaceClownFace2Color": "다채로운 광대 얼굴 2",
-    "MakeUpType_FullFaceFreddy": "프레디",
-    "MakeUpType_FullFaceInsane": "정신병자",
-    "MakeUpType_FullFaceJoker": "조커",
-    "MakeUpType_FullFaceJokerColor": "다채로운 조커",
-    "MakeUpType_FullFaceMimeBlack": "마임 블랙",
-    "MakeUpType_FullFaceMimeRed": "마임 레드",
-    "MakeUpType_FullFacePennywise": "페니와이즈",
-    "MakeUpType_FullFaceShotgunFace": "샷건 페이스"
+    "MakeUpType_FullFacePaleskin": "화이트 파운데이션"
 }

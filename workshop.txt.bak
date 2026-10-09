@@ -5,6 +5,7 @@ description=바닐라 게임과 창작마당 모드 약 500개를 한국어로 �
 description=
 description=[h2]번역된 모드 목록[/h2]
 description=[list]
+description=[*][url=https://github.com/Hx529/PZ_KoreanLocalization/blob/main/MODS.md]번역된 모드 목록[/url] - 모드 설명, 스팀 링크, 비호환·덮어쓰기 주의
 description=[*][url=https://docs.google.com/spreadsheets/d/1mvICZ2zet0rIlq-07fFTJWmXbkvNSl0WoWujl3-ULkA/edit?usp=sharing]Google Sheets[/url]
 description=[/list]
 description=
@@ -35,7 +36,9 @@ description=[/list]
 description=총기 모드 번역은 바닐라 총기의 스펙(탄 종류)을 바꾸는 경우가 있으니 필요할 때만 켜는 것을 추천합니다.
 description=
 description=[b]B41[/b]
-description=[b]https://steamcommunity.com/sharedfiles/filedetails/?id=3816457363
+description=[list]
+description=[*][b]https://steamcommunity.com/sharedfiles/filedetails/?id=3816457363
+description=[/list]
 description=
 description=[hr][/hr]
 description=
@@ -49,6 +52,7 @@ description=[hr][/hr]
 description=
 description=[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3040632900]업데이트 기록[/url] · [url=https://steamcommunity.com/sharedfiles/filedetails/comments/3040632900]댓글[/url] (댓글이 보이지 않으면 링크를 눌러 주세요)
 description=
+description=[img]https://i.giphy.com/wRhSi68hscY8xNOlXS.webp[/img]
 description=[b]좋아요 한 번만 눌러 주시면 감사하겠습니다.[/b]
 description=
 description=[spoiler]Korean, Korea, Republic of Korea, 한국어, 한글, 번역, 번역팩, 한글패치, 대한민국, 42빌드, 42버전, B42, 한글화[/spoiler]

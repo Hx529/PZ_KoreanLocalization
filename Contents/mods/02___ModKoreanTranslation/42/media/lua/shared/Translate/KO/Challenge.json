@@ -1,4 +1,14 @@
 {
+    "========== PZK HIGHWAY TO HELL - MEGAMOD DLC / PZK VLC - \"Highway to hell\" (Motorbikes) [3407321737] ==========": "",
+    "Challenge_HighwayToHell_name": "하이웨이 투 헬",
+    "Challenge_HighwayToHell_desc": "세상은 조용히 끝나지 않았다. 진실은 거래되었고, 거짓은 열매를 맺었다. 이 길은 오직 한 방향으로만 이어진다... <LINE> <LINE> 하이웨이 투 헬 <LINE> <LINE> 감독: 피터 해머먼 - (개발 중) 현재는 아무 기능도 없습니다",
+    "Challenge_HighwayToHellInfoBox": " <CENTRE> 하이웨이 투 헬...",
+
+    "========== [B42] SecretZ Operations / [B42] SecretZ Pandemic [3494374578] ==========": "",
+    "Challenge_SecretZ_name": "SecretZ - 수색, 확보, 철수",
+    "Challenge_SecretZ_desc": "그 오랜 세월의 노력이 모두 물거품이 되었다. 정말 엉망이 되어버렸다. 아주 큰 혼란이다. 하지만 아직 늦지 않았을지도 모른다. <LINE> <LINE> 이 혼란 속에서 마지막 핵심 문서, 샘플, 인원까지 회수하기 위해 모든 연구 시설에 요원들이 파견되었다. 물론 정부에 쓸모 있는 것들이고, 그 외에 누구에게 쓸모 있을지는 신만이 알겠지만... 우리가 아는 것보다 훨씬 많은 이해관계가 얽혀 있다. 각 팀에는 저마다의 임무가 있다는 걸 명심해라. 요즘은 신뢰라는 걸 찾기가 힘들어지고 있다. <LINE> <LINE> 당신은 팀원들과 연락이 끊겼고 다른 팀들의 무전기도 조용하다. 이제 혼자다. 하지만 목표는 무슨 일이 있어도, 어떤 대가를 치르더라도 달성해야 한다. 명령에 따르고 임무를 완수해라. 그게 우리가 하는 일이다.<LINE> <LINE> 이곳 상황은 통제 불능이 되었고, 보안 시스템이 그나마 제 역할을 했다고 해야 할지 모르겠지만, 결국 당신은 여기에 갇혔다. 목표를 찾기 전까지는 빠져나갈 방법을 찾지 못할 것이다. 어쨌든 팀원 중 누군가는 출입 게이트를 열 보안 키카드를 가지고 있을 것이다.<LINE> <LINE> 플레이해 주셔서 감사합니다! <LINE>",
+
+    "========== 출처 미확인 (현재 설치되지 않은 모드) ==========": "",
     "Challenge_TheTestSubject_name": "[Pillow] 실험 대상",
     "Challenge_TheTestSubject_desc": "당신은 왜, 어떻게 여기 있는지 확신할 수 없지만… 뭔가 정말 이상합니다.",
     "Challenge_DodgeballofTheDead_name": "[Pillow] 좀비 피구",
@@ -18,12 +28,5 @@
     "Challenge_NakedAndAfraid_name": "[Pillow] (거의) 알몸과 공포",
     "Challenge_NakedAndAfraid_desc": "오두막이나 빈 건물에서 아무것도 없이 깨어났습니다. 극도의 공포 속에서.",
     "Challenge_AbandonedSoldier_name": "[Pillow] 버려진 군인",
-    "Challenge_AbandonedSoldier_desc": "집결지에 도착했지만, 부대원들은 모두 사라졌습니다. 들렸던 총성은 분명 좀비 떼를 끌어들였을 겁니다.",
-
-    "Challenge_HighwayToHell_name": "하이웨이 투 헬",
-    "Challenge_HighwayToHell_desc": "세상은 조용히 끝나지 않았다. 진실은 거래되었고, 거짓은 열매를 맺었다. 이 길은 오직 한 방향으로만 이어진다... <LINE> <LINE> 하이웨이 투 헬 <LINE> <LINE> 감독: 피터 해머먼 - (개발 중) 현재는 아무 기능도 없습니다",
-    "Challenge_HighwayToHellInfoBox": " <CENTRE> 하이웨이 투 헬...",
-
-    "Challenge_SecretZ_name": "SecretZ - 수색, 확보, 철수",
-    "Challenge_SecretZ_desc": "그 오랜 세월의 노력이 모두 물거품이 되었다. 정말 엉망이 되어버렸다. 아주 큰 혼란이다. 하지만 아직 늦지 않았을지도 모른다. <LINE> <LINE> 이 혼란 속에서 마지막 핵심 문서, 샘플, 인원까지 회수하기 위해 모든 연구 시설에 요원들이 파견되었다. 물론 정부에 쓸모 있는 것들이고, 그 외에 누구에게 쓸모 있을지는 신만이 알겠지만... 우리가 아는 것보다 훨씬 많은 이해관계가 얽혀 있다. 각 팀에는 저마다의 임무가 있다는 걸 명심해라. 요즘은 신뢰라는 걸 찾기가 힘들어지고 있다. <LINE> <LINE> 당신은 팀원들과 연락이 끊겼고 다른 팀들의 무전기도 조용하다. 이제 혼자다. 하지만 목표는 무슨 일이 있어도, 어떤 대가를 치르더라도 달성해야 한다. 명령에 따르고 임무를 완수해라. 그게 우리가 하는 일이다.<LINE> <LINE> 이곳 상황은 통제 불능이 되었고, 보안 시스템이 그나마 제 역할을 했다고 해야 할지 모르겠지만, 결국 당신은 여기에 갇혔다. 목표를 찾기 전까지는 빠져나갈 방법을 찾지 못할 것이다. 어쨌든 팀원 중 누군가는 출입 게이트를 열 보안 키카드를 가지고 있을 것이다.<LINE> <LINE> 플레이해 주셔서 감사합니다! <LINE>"
+    "Challenge_AbandonedSoldier_desc": "집결지에 도착했지만, 부대원들은 모두 사라졌습니다. 들렸던 총성은 분명 좀비 떼를 끌어들였을 겁니다."
 }

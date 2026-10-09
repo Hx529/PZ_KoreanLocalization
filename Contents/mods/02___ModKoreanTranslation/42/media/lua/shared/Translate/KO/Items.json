@@ -1,11 +1,22 @@
 {
+    "========== BetterBeltsB42 [3414047248] ==========": "",
+    "DisplayName_FrontBeltHookL": "벨트 고리 (왼쪽)",
+    "DisplayName_FrontBeltHookR": "벨트 고리 (오른쪽)",
+
+    "========== [COS] Hide_Weapon_Slot_V2 [2966916265] ==========": "",
+    "DisplayName_Invisible_strap": "나노 은닉 장비 MK1",
+    "DisplayName_Invisible_belt": "나노 은닉 장비 MK2",
+    "DisplayName_Invisible_waist_bag1": "나노 은닉 허벅지 가방",
+    "DisplayName_Invisible_waist_bag2": "나노 은닉 허리 가방",
+    "DisplayName_Invisible_pack": "나노 은닉 배낭",
+
+    "========== [B42] SecretZ Operations / [B42] SecretZ Pandemic [3494374578] ==========": "",
     "DisplayName_SZ_LabTest18": "CMP V-SZ7751",
     "DisplayName_SZ_LabTest19": "CMP V-SZ4077",
     "DisplayName_SZ_LabTest20": "CMP V-SZ2085",
     "DisplayName_SZ_LabTest21": "CMP V-SZ8075",
     "DisplayName_SZ_LabTest22": "CMP V-SZ8921",
     "DisplayName_SZ_LabTest23": "CMP V-SZ7879",
-
     "DisplayName_SZ_LabTest01": "CMP V-SZ7748",
     "DisplayName_SZ_LabTest02": "CMP V-SZ7738",
     "DisplayName_SZ_LabTest03": "CMP V-SZ2055",
@@ -24,12 +35,7 @@
     "DisplayName_SZ_LabTest16": "CMP V-SZ2034",
     "DisplayName_SZ_LabTest17": "CMP V-SZ7741",
 
-    "DisplayName_Invisible_strap": "나노 은닉 장비 MK1",
-    "DisplayName_Invisible_belt": "나노 은닉 장비 MK2",
-    "DisplayName_Invisible_waist_bag1": "나노 은닉 허벅지 가방",
-    "DisplayName_Invisible_waist_bag2": "나노 은닉 허리 가방",
-    "DisplayName_Invisible_pack": "나노 은닉 배낭",
-
+    "========== [B42] Tactical Sheaths [3389805754] ==========": "",
     "DisplayNameTactical_Knife": "전술 나이프",
     "DisplayNameKnife_Sheath_Back": "칼집 (등)",
     "DisplayNameKnife_Sheath_Leg": "칼집 (허벅지)",
@@ -62,8 +68,5 @@
     "DisplayNameKatana_Sheath_Hip_Pink": "카타나 칼집 (분홍색, 허리)",
     "DisplayNameKatana_Sheath_Hip_Hearts": "카타나 칼집 (하트, 허리)",
     "DisplayNameKatana_Sheath_Hip_Galaxy": "카타나 칼집 (갤럭시, 허리)",
-    "DisplayNameKatana_Sheath_Hip_Enma": "카타나 칼집 (엔마, 허리)",
-
-    "DisplayName_FrontBeltHookL": "벨트 고리 (왼쪽)",
-    "DisplayName_FrontBeltHookR": "벨트 고리 (오른쪽)"
+    "DisplayNameKatana_Sheath_Hip_Enma": "카타나 칼집 (엔마, 허리)"
 }
